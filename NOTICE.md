@@ -6,7 +6,7 @@ The technical reports reference Blender documentation, pinned Blender implementa
 
 Blender is a separate dependency maintained by the Blender Foundation and contributors. No Blender executable or whole captured Blender source file is distributed in the default plugin. Blender's own guidance for scripts using its Python API is at https://www.blender.org/about/license/ and https://www.blender.org/support/faq/.
 
-Optional assets are from Poly Haven: https://polyhaven.com. Its asset license and API terms are distinct. The public package includes original source-linked policy summaries, not copied website terms, logos, assets, or preview images. Original policy captures are preserved privately. Asset acquisitions record authors, variant, source, hashes, and policy-summary classification.
+External assets may come from different providers; the source directory summarizes their own published access and license guidance without granting their rights. No provider is required or preferred. The optional Poly Haven utilities use https://polyhaven.com. Its asset license and API terms are distinct. The public package includes original source-linked policy summaries, not copied website terms, logos, assets, or preview images. Original policy captures are preserved privately. Asset acquisitions record authors, variant, source, hashes, and policy-summary classification.
 
 The full research snapshot includes third-party material with varied rights. It is not covered wholesale by this project's license and is not cleared for public redistribution. See [licensing review](docs/licensing.md).
 

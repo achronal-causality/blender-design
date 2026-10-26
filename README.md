@@ -2,14 +2,14 @@
 
 A Codex plugin for designing and revising editable Blender scenes through Python. Define useful parameters and construction rules, derive geometry, inspect renders, and check the intended relationships.
 
-Version 1.2.0 is a local release candidate. No public repository or directory listing has been published.
+Version 1.2.1 is a local release candidate. No public repository or directory listing has been published.
 
 ## Requirements
 
 - Codex with local plugin support, file access, command execution, and image inspection.
 - An installed Blender executable. The release example is tested on Blender 5.2.2 LTS, macOS ARM64. Other versions/platforms require compatibility checks.
 - Host Python 3.10+ for helpers and the example runner. No pip dependencies are required.
-- Network access only for optional Poly Haven searches/downloads. No service account or API key is required by the helper.
+- The core procedural workflow and example need no asset provider, account, or network access. Optional external assets have provider-specific access and terms.
 
 The plugin supplies instructions, references, and helpers. Blender runs the modeling code. Installing it does not provide Blender or a remote rendering service.
 
@@ -46,7 +46,8 @@ Outputs include `scene/divider.blend`, `scene/preview.png`, source hashes, logs,
 - [Skill](skills/blender-design/SKILL.md), [design philosophy](skills/blender-design/references/design-philosophy.md), and [working guide](skills/blender-design/references/working-guide.md).
 - [Technical reference](skills/blender-design/references/library/blender-background-review/README.md): ten modules, API/task/failure indexes, 27 scoped claims, reading coverage, examples, contradictions, and open tests.
 - [Historical lamp examples](skills/blender-design/references/demo-transfer.md) are preserved sources, separate from the runnable release example.
-- [Poly Haven workflow](skills/blender-design/references/polyhaven.md): search, bounded acquisition, offline byte verification, and native collection import. Assets come from [Poly Haven](https://polyhaven.com); downloaded geometry is not original procedural authorship.
+- [Shared asset workflow](skills/blender-design/references/assets.md) and [source directory](skills/blender-design/references/asset-sources.md): optional asset selection, terms, dependencies, provenance, native import, and visual verification. No provider is the default.
+- [Optional Poly Haven utilities](skills/blender-design/references/polyhaven.md): existing provider-specific helpers and their safeguards/tested limits. No integrations for other providers are included.
 - [Research archive and offline access](docs/archive.md), [file-by-file preservation](docs/preservation.json), and [historical validation](docs/history.md).
 
 No findings were discarded to make the default download small. Full captures and historical tooling remain in a separate private snapshot/archive pending per-source redistribution clearance. The default package contains findings, source links, hashes, and archive locations, not all captured source bytes.

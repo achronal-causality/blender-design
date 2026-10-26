@@ -11,7 +11,7 @@
       "archive_member": "original-v1.1.0/.codex-plugin/plugin.json",
       "anchor": "file-7952afb62f76de49",
       "public_path": ".codex-plugin/plugin.json",
-      "public_sha256": "0659aa8ee87b51ddeb140ed60f49a958a58f8f047461c0dfc204230e71cec5d6",
+      "public_sha256": "6d30ab107290232c35b0b7a5f6d461b5b73c699758da34eb6c87be885ab0d2c4",
       "preserved_original": true
     },
     {
@@ -22,7 +22,7 @@
       "archive_member": "original-v1.1.0/README.md",
       "anchor": "file-b335630551682c19",
       "public_path": "README.md",
-      "public_sha256": "3f3f354f251e28f25e45538fb54f071428f7777bfe0310636a4df0dfd93215df",
+      "public_sha256": "8cd9d6a7516e944cdea7017e343be84f4b6798accadc38b10c640ef974b2ab31",
       "preserved_original": true
     },
     {
@@ -33,7 +33,7 @@
       "archive_member": "original-v1.1.0/VALIDATION.md",
       "anchor": "file-37959855b8c9a121",
       "public_path": "VALIDATION.md",
-      "public_sha256": "216dbdab7248c9596df83ff6cfb70de98e6c5b6252fe2cf0fb1eded092c4c4d7",
+      "public_sha256": "b60c761e8d13c290f82ec457b26126fe187e4b49731877f7a454e7404524ab66",
       "preserved_original": true
     },
     {
@@ -44,7 +44,7 @@
       "archive_member": "original-v1.1.0/skills/blender-design/SKILL.md",
       "anchor": "file-af96b5488c961546",
       "public_path": "skills/blender-design/SKILL.md",
-      "public_sha256": "015201b7f9d676faf077b26f5888af8e7a02003d319c05470771c340d6044f60",
+      "public_sha256": "28f5d4ad3cc3088409f7b4c052bd1eb7c7e729bf4308aec12e26fc017f3d355a",
       "preserved_original": true
     },
     {
@@ -11676,18 +11676,18 @@
       "archive_member": "original-v1.1.0/skills/blender-design/references/polyhaven.md",
       "anchor": "file-71866072da9df373",
       "public_path": "skills/blender-design/references/polyhaven.md",
-      "public_sha256": "a75bef6637ae68d3a66765a765e074f8f8859b0fa5183a3ba8ca04bf0d90170c",
+      "public_sha256": "01b89ccec5dc2cbe61c56718159756164b1a881d47ccc40804f14baf9abc2a85",
       "preserved_original": true
     },
     {
       "original_path": "skills/blender-design/references/working-guide.md",
       "bytes": 8415,
       "sha256": "47c1273f1bdc62d34bb7f22a8432dd099733a249872a77c2d367e2396b3e3358",
-      "disposition": "unchanged",
+      "disposition": "transformed",
       "archive_member": "original-v1.1.0/skills/blender-design/references/working-guide.md",
       "anchor": "file-454861001fbad2c7",
       "public_path": "skills/blender-design/references/working-guide.md",
-      "public_sha256": "47c1273f1bdc62d34bb7f22a8432dd099733a249872a77c2d367e2396b3e3358",
+      "public_sha256": "74f924a49c3afb2e4403539a43afa1aea75184289ded809353f7f2855d01c7ca",
       "preserved_original": true
     },
     {

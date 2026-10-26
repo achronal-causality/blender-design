@@ -1,12 +1,12 @@
-# Poly Haven assets
+# Optional Poly Haven utilities
 
-Poly Haven is the selected catalog for this skill. Use its assets when external assets fit the user's brief; a request to create everything from scratch still excludes them. Choose scale, attachments, material response and style deliberately. A downloaded model is not evidence that the agent constructed that model procedurally.
+These provider-specific helpers are optional conveniences when a chosen Poly Haven asset fits the brief. They are not prerequisites for procedural design, external asset use, or native Blender import, and Poly Haven is not the default provider. Start with the [shared asset workflow](assets.md) and [source directory](asset-sources.md). A request for everything from scratch excludes downloaded assets. Choose scale, attachments, material response and style deliberately; downloaded geometry is not evidence of procedural authorship.
 
 ## Service and license
 
 Assets are supplied by **[Poly Haven](https://polyhaven.com)** under [CC0](https://polyhaven.com/license). The live [API](https://polyhaven.com/our-api) has separate terms: identify requests and visibly credit Poly Haven when surfacing live content. The helper prints that credit and includes it in provenance. Preserve a visible source credit in user-facing asset results as well. No API key, account or Blender add-on is needed for the documented default endpoints.
 
-The bundled [policy records](../../../docs/research-catalog.md#file-434400ed04031397) identify original source-linked summaries reviewed 2026-10-26, not copies of the provider's terms. Acquisition receipts label these summaries explicitly and hash their bytes. The original 2026-09-15 captures and pinned terms are preserved in the private research archive, with their original hashes and retrieval records. Recheck primary terms when behavior or use changes. CC0 does not certify topology, scale, provenance, or suitability for a scene.
+The bundled [policy records](polyhaven-evidence/manifest.json) identify original source-linked summaries reviewed 2026-10-26, not copies of the provider's terms. Acquisition receipts label these summaries explicitly and hash their bytes. The original 2026-09-15 captures and pinned terms are preserved in the private research archive, with their original hashes and retrieval records. Recheck primary terms when behavior or use changes. CC0 does not certify topology, scale, provenance, or suitability for a scene.
 
 ## Search and inspect
 
@@ -73,3 +73,7 @@ Other acquired formats use the corresponding native Blender APIs. HDRIs require 
 For the current design, measure actual evaluated bounds/orientation, inspect image paths and materials, check intended attachments, and render controlled views. Provider dimensions alone are not a Blender unit contract. Reopen important outputs after relocation and check dependencies without relying on the original acquisition directory.
 
 The implementation exercise used `dirty_football`, variant `blend/1k/blend`, collection `dirty_football_LOD0`: four files, 3,530,774 payload bytes. Live search/metadata/download and helper failure handling were tested. The saved-file inspection results are summarized in the plugin's [validation record](../../../VALIDATION.md). This finite case does not establish every asset's Blender-version compatibility or universal import behavior.
+
+## Optional status and unchanged scope
+
+The standard-library catalog/downloader and Blender-side collection helper, with their existing tests, remain unchanged in this documentation revision. Their safeguards do not certify terms compliance, geometric quality, every dependency type, or arbitrary native-file safety. Current verification reruns helper unit tests; the live download, native import, packed-texture render, and source-denied relocated reopen described above are historical tests of the selected `dirty_football` asset. No new live catalog/import test or integration for another provider is implied. The core procedural example and working reference operate without these utilities or network access.

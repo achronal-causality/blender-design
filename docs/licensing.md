@@ -24,3 +24,7 @@ Poly Haven's [license page](https://polyhaven.com/license) states that assets ar
 ## Archive publication remains unresolved
 
 The companion ZIP is a private preservation artifact, not a public release asset. Per-source license texts, attribution requirements, and redistribution permissions have not been established for every captured page, issue report, or external repository file. No automatic publication command includes that ZIP. All captures remain available locally; public archive access needs a separate clearance decision. This does not block the curated default package from being reviewed for publication.
+
+## Asset-source directory revision
+
+The 1.2.1 directory contains original dated summaries with primary-source links for Poly Haven, ambientCG, Kenney, Quaternius, NASA 3D Resources, and BlenderKit/Blendkit. These descriptions do not grant provider/item rights, establish account access, or imply automated download/import compatibility. Check item terms and editable-scene delivery separately. No new full third-party capture or downloaded asset is included. The existing policy-summary files and Poly Haven helper bytes are unchanged.

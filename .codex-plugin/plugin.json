@@ -1,6 +1,6 @@
 {
   "name": "blender-design",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Procedural Blender design through explicit relationships, rendered feedback, and a traceable technical reference.",
   "author": {
     "name": "Julian Turner"
@@ -9,7 +9,7 @@
   "interface": {
     "displayName": "Blender Design",
     "shortDescription": "Procedural Blender design with a full local reference",
-    "longDescription": "Build and revise editable Blender scenes through Python. Includes detailed technical findings, a runnable example, and verified Poly Haven asset helpers. Full historical captures are separately preserved.",
+    "longDescription": "Build and revise editable Blender scenes through Python, with a portable technical reference and runnable example. Includes optional provider-independent asset guidance and bounded Poly Haven utilities. Full historical evidence is separately preserved.",
     "developerName": "Julian Turner",
     "category": "Productivity",
     "capabilities": [],

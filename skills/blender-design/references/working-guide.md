@@ -91,6 +91,10 @@ Save editable `.blend` output with its generator/parameters. Reopen important de
 
 For analysis/planning requests, do not run construction. For requested models/changes, complete authorized construction and verification; research-era instructions saying examples remain unexecuted do not prohibit new work.
 
+## Optional external assets
+
+Use the [shared asset workflow](assets.md) when the brief benefits from external models, materials, or lighting. The [source directory](asset-sources.md) records dated primary-source research, not provider integrations or compatibility tests. No provider is selected by default; the [Poly Haven helpers](polyhaven.md) are optional. Core construction, rendering, and the folding-divider example require no provider or account.
+
 ## Search the library
 
 From this skill directory:

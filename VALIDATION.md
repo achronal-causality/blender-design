@@ -1,6 +1,14 @@
-# Release 1.2.0 validation
+# Release validation
 
-Validated locally on 2026-10-26. This is a release candidate, not a published listing.
+## 1.2.1 asset-guidance revision
+
+Primary-source documentation reviewed 2026-10-26 for all six providers. New shared asset guidance/source directory are documentation, not new download/import tests. Poly Haven scripts, policy records, helper tests, all 24 audited research documents, and the procedural example remain byte-identical to `67ce88a`. The selected-provider policy is explicitly replaced by ADR 0002; its history is preserved.
+
+The final 1.2.1 package is checked by exact members/hashes, local links, extracted unit tests, isolated Codex installation, installed-cache integrity, and original/finding preservation. The existing example's source hashes must match the previously rendered and reopened builds. No new render is necessary for unchanged example code. Machine-readable results/logs are retained under `build/asset-guidance-verification/`, outside the public payload. No new live provider API, acquisition, add-on, or asset import test is claimed.
+
+## 1.2.0 runtime and publication-cleanup baseline
+
+Validated locally on 2026-10-26. These prior runtime checks remain applicable only to the unchanged code and recorded environment; this is a local release candidate, not a published listing.
 
 ## Preservation and packaging
 

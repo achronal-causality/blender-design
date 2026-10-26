@@ -8,8 +8,8 @@
     },
     {
       "path": ".codex-plugin/plugin.json",
-      "bytes": 881,
-      "sha256": "0659aa8ee87b51ddeb140ed60f49a958a58f8f047461c0dfc204230e71cec5d6"
+      "bytes": 929,
+      "sha256": "6d30ab107290232c35b0b7a5f6d461b5b73c699758da34eb6c87be885ab0d2c4"
     },
     {
       "path": ".gitignore",
@@ -28,23 +28,28 @@
     },
     {
       "path": "NOTICE.md",
-      "bytes": 1683,
-      "sha256": "32daba6cc053f607fbcea123b8bafdf8191b2da12a14c43d61a2235fddc969d6"
+      "bytes": 1884,
+      "sha256": "eea36c130e3934569365f3c831aeb36ef7bd01bebe644a8c3863e78dcf7be03e"
     },
     {
       "path": "README.md",
-      "bytes": 4337,
-      "sha256": "3f3f354f251e28f25e45538fb54f071428f7777bfe0310636a4df0dfd93215df"
+      "bytes": 4579,
+      "sha256": "8cd9d6a7516e944cdea7017e343be84f4b6798accadc38b10c640ef974b2ab31"
     },
     {
       "path": "VALIDATION.md",
-      "bytes": 4367,
-      "sha256": "216dbdab7248c9596df83ff6cfb70de98e6c5b6252fe2cf0fb1eded092c4c4d7"
+      "bytes": 5485,
+      "sha256": "b60c761e8d13c290f82ec457b26126fe187e4b49731877f7a454e7404524ab66"
     },
     {
       "path": "docs/adr/0001-separate-public-reference-from-private-captures.md",
       "bytes": 1864,
       "sha256": "ba4c7052bcf3da41d23d57438776a5830b689628ba31b6156335535003b96574"
+    },
+    {
+      "path": "docs/adr/0002-provider-independent-asset-guidance.md",
+      "bytes": 2009,
+      "sha256": "75c5f650d4f24ab5f357068501504e6aa1a1e3aae70de0b150fa3c408e237493"
     },
     {
       "path": "docs/archive.md",
@@ -58,18 +63,18 @@
     },
     {
       "path": "docs/licensing.md",
-      "bytes": 2696,
-      "sha256": "cf4e5a03f1a626ad7fb9d9211d02bb36e6b66392635a73d9f3556ef824272a1d"
+      "bytes": 3233,
+      "sha256": "9b0f9c5a13e23fd6e8f290d6e5d50267e9615acf06122951387f107aad7d4f6a"
     },
     {
       "path": "docs/preservation.json",
-      "bytes": 689151,
-      "sha256": "6a41ad1d92b1a4a2255aeb6fa105ec32c7b720053270b61b5e4ffcf97ff4e541"
+      "bytes": 689153,
+      "sha256": "1e348a54ce1b2c28bb61649e6620246a531728249c1b34685e752a5ce79cd415"
     },
     {
       "path": "docs/releasing.md",
       "bytes": 1555,
-      "sha256": "80f195c9a63a0941bdfe086441ce9474590d7045ceee4309efb326030b256ebf"
+      "sha256": "00f364a20baf7fa3b61ddee0755b0674040ed9d65a01f34f97e061079f6ec146"
     },
     {
       "path": "docs/research-catalog.md",
@@ -123,18 +128,28 @@
     },
     {
       "path": "release-plan.json",
-      "bytes": 8263,
-      "sha256": "359e3671364ccac160787a31edf1ead3ab751ca99c085ff03e164fba2219627f"
+      "bytes": 8430,
+      "sha256": "5abdf81afc76a4e36bda0bdec21eaaa911aa8082a3a46412e1514feb5e427845"
     },
     {
       "path": "skills/blender-design/SKILL.md",
-      "bytes": 6964,
-      "sha256": "015201b7f9d676faf077b26f5888af8e7a02003d319c05470771c340d6044f60"
+      "bytes": 7680,
+      "sha256": "28f5d4ad3cc3088409f7b4c052bd1eb7c7e729bf4308aec12e26fc017f3d355a"
     },
     {
       "path": "skills/blender-design/agents/openai.yaml",
       "bytes": 221,
       "sha256": "1c922c1cdc62aee6e2376a362550a22d2adeab32171389c1990f7ae695e6dd3d"
+    },
+    {
+      "path": "skills/blender-design/references/asset-sources.md",
+      "bytes": 4936,
+      "sha256": "9f19338f546c0404b8ae59f837c80782079cca8f8396a19488edaf0f0d2563d9"
+    },
+    {
+      "path": "skills/blender-design/references/assets.md",
+      "bytes": 5680,
+      "sha256": "71c88871b1f24bd8a7b3a6f7a02c0d2278e2143cb0f029935edf56eb6802524f"
     },
     {
       "path": "skills/blender-design/references/demo-transfer.md",
@@ -513,13 +528,13 @@
     },
     {
       "path": "skills/blender-design/references/polyhaven.md",
-      "bytes": 8690,
-      "sha256": "a75bef6637ae68d3a66765a765e074f8f8859b0fa5183a3ba8ca04bf0d90170c"
+      "bytes": 9598,
+      "sha256": "01b89ccec5dc2cbe61c56718159756164b1a881d47ccc40804f14baf9abc2a85"
     },
     {
       "path": "skills/blender-design/references/working-guide.md",
-      "bytes": 8415,
-      "sha256": "47c1273f1bdc62d34bb7f22a8432dd099733a249872a77c2d367e2396b3e3358"
+      "bytes": 8871,
+      "sha256": "74f924a49c3afb2e4403539a43afa1aea75184289ded809353f7f2855d01c7ca"
     },
     {
       "path": "skills/blender-design/scripts/check_bundle.py",
