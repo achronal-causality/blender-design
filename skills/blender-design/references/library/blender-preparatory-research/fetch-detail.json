@@ -1,0 +1,102 @@
+[
+  {
+    "id": "mcp-server.py",
+    "url": "https://raw.githubusercontent.com/ahujasid/blender-mcp/7684c6b3ad2aa0710bbdb1cb06b497c90899ae00/src/blender_mcp/server.py"
+  },
+  {
+    "id": "mcp-addon.py",
+    "url": "https://raw.githubusercontent.com/ahujasid/blender-mcp/7684c6b3ad2aa0710bbdb1cb06b497c90899ae00/addon.py"
+  },
+  {
+    "id": "mcp-bundled-addon.py",
+    "url": "https://raw.githubusercontent.com/ahujasid/blender-mcp/7684c6b3ad2aa0710bbdb1cb06b497c90899ae00/src/blender_mcp/bundled/addon.py"
+  },
+  {
+    "id": "mcp-safe-mode.py",
+    "url": "https://raw.githubusercontent.com/ahujasid/blender-mcp/7684c6b3ad2aa0710bbdb1cb06b497c90899ae00/src/blender_mcp/safe_mode.py"
+  },
+  {
+    "id": "mcp-telemetry.py",
+    "url": "https://raw.githubusercontent.com/ahujasid/blender-mcp/7684c6b3ad2aa0710bbdb1cb06b497c90899ae00/src/blender_mcp/telemetry.py"
+  },
+  {
+    "id": "mcp-pyproject.toml",
+    "url": "https://raw.githubusercontent.com/ahujasid/blender-mcp/7684c6b3ad2aa0710bbdb1cb06b497c90899ae00/pyproject.toml"
+  },
+  {
+    "id": "vscode-launch.py",
+    "url": "https://raw.githubusercontent.com/JacquesLucke/blender_vscode/d30e14bc6f13e61247ccc2bd89f1a0116b5cf8db/pythonFiles/launch.py"
+  },
+  {
+    "id": "vscode-CHANGELOG.md",
+    "url": "https://raw.githubusercontent.com/JacquesLucke/blender_vscode/d30e14bc6f13e61247ccc2bd89f1a0116b5cf8db/CHANGELOG.md"
+  },
+  {
+    "id": "vscode-package.json",
+    "url": "https://raw.githubusercontent.com/JacquesLucke/blender_vscode/d30e14bc6f13e61247ccc2bd89f1a0116b5cf8db/package.json"
+  },
+  {
+    "id": "proc-cli.py",
+    "url": "https://raw.githubusercontent.com/DLR-RM/BlenderProc/76bd8b82ee19489843578ff045298642197bf883/cli.py"
+  },
+  {
+    "id": "proc-install.py",
+    "url": "https://raw.githubusercontent.com/DLR-RM/BlenderProc/76bd8b82ee19489843578ff045298642197bf883/blenderproc/python/utility/InstallUtility.py"
+  },
+  {
+    "id": "proc-example.py",
+    "url": "https://raw.githubusercontent.com/DLR-RM/BlenderProc/76bd8b82ee19489843578ff045298642197bf883/examples/basics/basic/main.py"
+  },
+  {
+    "id": "proc-setup.py",
+    "url": "https://raw.githubusercontent.com/DLR-RM/BlenderProc/76bd8b82ee19489843578ff045298642197bf883/setup.py"
+  },
+  {
+    "id": "synth-pyproject.toml",
+    "url": "https://raw.githubusercontent.com/ollieboyne/BlenderSynth/02a8c7b92ff3332639db6b8a6e3df742d9e76b00/pyproject.toml"
+  },
+  {
+    "id": "synth-setup.py",
+    "url": "https://raw.githubusercontent.com/ollieboyne/BlenderSynth/02a8c7b92ff3332639db6b8a6e3df742d9e76b00/setup.py"
+  },
+  {
+    "id": "mcp-issue-251.json",
+    "url": "https://api.github.com/repos/ahujasid/blender-mcp/issues/251"
+  },
+  {
+    "id": "mcp-comments-251.json",
+    "url": "https://api.github.com/repos/ahujasid/blender-mcp/issues/251/comments?per_page=100"
+  },
+  {
+    "id": "mcp-issue-272.json",
+    "url": "https://api.github.com/repos/ahujasid/blender-mcp/issues/272"
+  },
+  {
+    "id": "mcp-comments-272.json",
+    "url": "https://api.github.com/repos/ahujasid/blender-mcp/issues/272/comments?per_page=100"
+  },
+  {
+    "id": "mcp-issue-279.json",
+    "url": "https://api.github.com/repos/ahujasid/blender-mcp/issues/279"
+  },
+  {
+    "id": "mcp-comments-279.json",
+    "url": "https://api.github.com/repos/ahujasid/blender-mcp/issues/279/comments?per_page=100"
+  },
+  {
+    "id": "mcp-issue-314.json",
+    "url": "https://api.github.com/repos/ahujasid/blender-mcp/issues/314"
+  },
+  {
+    "id": "mcp-comments-314.json",
+    "url": "https://api.github.com/repos/ahujasid/blender-mcp/issues/314/comments?per_page=100"
+  },
+  {
+    "id": "mcp-issue-207.json",
+    "url": "https://api.github.com/repos/ahujasid/blender-mcp/issues/207"
+  },
+  {
+    "id": "mcp-comments-207.json",
+    "url": "https://api.github.com/repos/ahujasid/blender-mcp/issues/207/comments?per_page=100"
+  }
+]

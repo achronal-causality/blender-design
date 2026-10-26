@@ -1,0 +1,178 @@
+{
+  "status": "passed",
+  "checked_utc": "2026-09-15T20:48:18.069521+00:00",
+  "movie": {
+    "sha256": "22a0f27f31085839cd8332d49fe13b073e0bd4b40fc9733d4d08e740f1674834",
+    "bytes": 892066,
+    "duration_s": 16.0,
+    "frames": 384,
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "full_decode_exit_code": 0,
+    "fade_endpoint_rgb": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ]
+  },
+  "audio": {
+    "duration_s": 16.0,
+    "sample_rate_hz": 48000,
+    "channels": 2,
+    "pcm_peak": 0.767730712890625,
+    "clipped_samples": 0,
+    "impact_frames": [
+      45,
+      68,
+      91,
+      116,
+      186,
+      229,
+      274
+    ]
+  },
+  "scene_reopen_checks": {
+    "frames": 384,
+    "max_character_space_link_error_m": 2.0563609975932096e-07,
+    "max_trajectory_error_m": 0.0,
+    "max_support_error_m": 3.390312199730294e-08,
+    "min_shade_floor_clearance_m": 0.04924716427922249,
+    "min_stretch": 0.6193498273690542,
+    "max_stretch": 1.2999988595644634,
+    "max_volume_scale_error": 2.832412722142408e-07,
+    "rebound_frames": [
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      132,
+      133,
+      134,
+      135,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      201,
+      202,
+      203,
+      204,
+      234,
+      235,
+      236,
+      237,
+      238,
+      239,
+      240,
+      245,
+      246,
+      247,
+      248,
+      279,
+      280,
+      281,
+      282,
+      283,
+      284,
+      285,
+      290,
+      291,
+      292,
+      293,
+      294
+    ],
+    "min_support_clearance_m": -1.7642974858844696e-08,
+    "min_character_camera_margin": 0.06358981132507324,
+    "min_foot_height_m": 0.0,
+    "max_foot_height_m": 1.2430769205093384,
+    "impact_frames": [
+      45,
+      68,
+      91,
+      116,
+      186,
+      229,
+      274
+    ],
+    "scope": "Character-space link lengths, deliberate cartoon deformation, constant deformation volume, evaluated trajectory, support and rebound clearance at every frame. No continuous all-pairs collision or dynamics simulation.",
+    "native_action_count": 6,
+    "driver_count": 4,
+    "final_gaze_dot_camera": 0.9976281044073403,
+    "invalid_drivers": [],
+    "external_files": []
+  },
+  "source_sha256": {
+    "assemble_film.py": "ab6f4d7f27bee14a33d292228606584b123a8fa253398c5de6f4aebaa76a4d46",
+    "build_intro.py": "55345e0b2262be39e87b5ffa4757dbc322bf081e7892a01573215963db84fe9a",
+    "lamp_geometry.py": "3874016d6ccfd950d88d64c0ca29eb6469ea10d35a072b61371c7563043b2ae4",
+    "motion.py": "8eb46ba755ad6af729bbb4a9ab8216e99fb19206e436b44b13104bd9caf72be7",
+    "render_frames.py": "2485ad46eeb3121f5ca1367d73691e7688b23f9686ce5fe8f965bacb82bb5ae7",
+    "synthesize_sound.py": "19b38d562bba68a8c2396d5b1c816d7ac4c0d82ccd341707d6b265f9ba971979",
+    "validate_delivery.py": "f098be1cfeb7faaf3ef1561f12f16f5885b9cc17eecc1291c8afc6a96dfbb01c"
+  },
+  "source_syntax": "All delivered Python sources parsed without importing Blender.",
+  "frame_integrity": "Every frame hash matched the completed renderer receipt.",
+  "scene_integrity": "Delivered editable scene matches the built and independently reopened scene.",
+  "local_readme_links": 17,
+  "visual_review": {
+    "method": "Direct inspection of actual rendered stills; not a claim of continuous real-time playback review.",
+    "full_resolution_frames": [
+      53,
+      118,
+      124,
+      342
+    ],
+    "storyboard_frames": [
+      47,
+      53,
+      189,
+      194
+    ],
+    "observations": [
+      "Landing compression makes the body low and wide.",
+      "Takeoff visibly extends the body and the joint chain.",
+      "The first stamp compresses beyond its resting pose.",
+      "The rebound clears the I while the body overshoots upward."
+    ]
+  },
+  "commands": {
+    "probe": [
+      "/opt/homebrew/bin/ffprobe",
+      "-v",
+      "error",
+      "-count_frames",
+      "-show_streams",
+      "-show_format",
+      "-of",
+      "json",
+      "/historical/author-home/.codex/.chatgpt-projects/g-p-6aa84ac26de08191bfdbcad4a9c41555/lamp-intro-springy/lamp-intro.mp4"
+    ],
+    "decode": [
+      "/opt/homebrew/bin/ffmpeg",
+      "-v",
+      "error",
+      "-xerror",
+      "-i",
+      "/historical/author-home/.codex/.chatgpt-projects/g-p-6aa84ac26de08191bfdbcad4a9c41555/lamp-intro-springy/lamp-intro.mp4",
+      "-f",
+      "null",
+      "-"
+    ]
+  }
+}

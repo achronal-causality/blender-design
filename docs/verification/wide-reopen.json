@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "blender": "5.2.2 LTS",
+  "build_hash": "d13f752e3b9c",
+  "panels": 3,
+  "width": 1.3,
+  "angle": 40.0,
+  "edge_gaps": [
+    0.0,
+    0.0
+  ],
+  "external_images": 0,
+  "linked_libraries": 0,
+  "scope": "Saved native topology, dimensions, fold angles, attachment coincidence, camera, and dependency inspection. No collision or manufacturing certification."
+}

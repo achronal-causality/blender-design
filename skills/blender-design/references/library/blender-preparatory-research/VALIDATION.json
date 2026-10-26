@@ -1,0 +1,54 @@
+{
+  "validated_utc": "2026-09-15T17:52:37.387835+00:00",
+  "status": "passed",
+  "checks": {
+    "https_receipts": 85,
+    "successful_capture_hashes_and_sizes_verified": 84,
+    "bounded_inaccessible_sources": [
+      {
+        "id": "release-corrective.html",
+        "error": "curl exit 56: curl: (56) The requested URL returned error: 404"
+      }
+    ],
+    "historical_attempt_records_retained": 27,
+    "installed_executable_matches_installation_receipt": true,
+    "installed_pinned_source_files_verified": [
+      "background_job.py",
+      "bmesh_simple.py",
+      "bpy-ops.py"
+    ],
+    "installation_commands_successful": true,
+    "inspected_config_unchanged": true,
+    "existing_absolute_local_links_checked": 192,
+    "official_openai_capture_sha256": "b72d64f668892e05331e05c6e8dbc2bebfeb061990ff66cd4d2e19a8796b0a84"
+  },
+  "reports": [
+    {
+      "path": "/historical/author-home/.codex/.chatgpt-projects/g-p-6aa84ac26de08191bfdbcad4a9c41555/blender-preparatory-research/README.md",
+      "sha256": "5c64f5ba418df5180d43e4c895ce740b6a35c1e6415cdf52927e9b77cf745e90",
+      "words": 267
+    },
+    {
+      "path": "/historical/author-home/.codex/.chatgpt-projects/g-p-6aa84ac26de08191bfdbcad4a9c41555/blender-preparatory-research/PREPARATION_A_TECHNICAL_BASELINE.md",
+      "sha256": "330db5ccff5f2746be001e70bf5b8b39dde79796ea21218e09805c3e52bb6d6d",
+      "words": 1886
+    },
+    {
+      "path": "/historical/author-home/.codex/.chatgpt-projects/g-p-6aa84ac26de08191bfdbcad4a9c41555/blender-preparatory-research/PREPARATION_B_ROUTE_SELECTION.md",
+      "sha256": "e1ba8a3970c7cfaf66c6f23a7ad2d988ad1ee77d7568968e89af13d668e84c97",
+      "words": 4607
+    },
+    {
+      "path": "/historical/author-home/.codex/.chatgpt-projects/g-p-6aa84ac26de08191bfdbcad4a9c41555/blender-preparatory-research/SOURCE_COVERAGE.md",
+      "sha256": "6212108806043e13c7d596e153c262d89f58811dfb28d7ce3945bcf610eabaa1",
+      "words": 2471
+    }
+  ],
+  "failures": [],
+  "limits": [
+    "No Blender capability tests, scene generation, rendering or integration execution.",
+    "Hash integrity and local link checks do not independently prove every report claim.",
+    "Remote URLs were acquired during research, not all re-requested by this validator.",
+    "Deep-dive route remains pending user selection; no exhaustive study started."
+  ]
+}

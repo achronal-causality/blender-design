@@ -1,0 +1,170 @@
+[
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_input_position.cc",
+    "start": 9,
+    "end": 12,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_input_position.cc",
+    "start": 14,
+    "end": 17,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_instance_on_points.cc",
+    "start": 21,
+    "end": 51,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_instance_on_points.cc",
+    "start": 198,
+    "end": 285,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_join_geometry.cc",
+    "start": 11,
+    "end": 19,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_join_geometry.cc",
+    "start": 21,
+    "end": 35,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_mesh_primitive_cube.cc",
+    "start": 21,
+    "end": 45,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_mesh_primitive_cube.cc",
+    "start": 95,
+    "end": 114,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_mesh_primitive_line.cc",
+    "start": 26,
+    "end": 54,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_mesh_primitive_line.cc",
+    "start": 66,
+    "end": 74,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_mesh_primitive_line.cc",
+    "start": 132,
+    "end": 175,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_realize_instances.cc",
+    "start": 20,
+    "end": 43,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_realize_instances.cc",
+    "start": 50,
+    "end": 107,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_set_position.cc",
+    "start": 18,
+    "end": 32,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_set_position.cc",
+    "start": 128,
+    "end": 164,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_transform_geometry.cc",
+    "start": 25,
+    "end": 48,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_transform_geometry.cc",
+    "start": 76,
+    "end": 106,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--shader--nodes--node_shader_bsdf_principled.cc",
+    "start": 22,
+    "end": 326,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--shader--nodes--node_shader_bsdf_principled.cc",
+    "start": 328,
+    "end": 332,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--shader--nodes--node_shader_mapping.cc",
+    "start": 18,
+    "end": 44,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--shader--nodes--node_shader_math.cc",
+    "start": 27,
+    "end": 91,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--shader--nodes--node_shader_output_material.cc",
+    "start": 11,
+    "end": 17,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--shader--nodes--node_shader_rgb.cc",
+    "start": 19,
+    "end": 30,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--shader--nodes--node_shader_tex_coord.cc",
+    "start": 16,
+    "end": 25,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--shader--nodes--node_shader_tex_noise.cc",
+    "start": 25,
+    "end": 103,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--shader--nodes--node_shader_tex_noise.cc",
+    "start": 114,
+    "end": 124,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--shader--nodes--node_shader_value.cc",
+    "start": 23,
+    "end": 33,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--shader--nodes--node_shader_vectMath.cc",
+    "start": 31,
+    "end": 94,
+    "behavior": "Node declaration or execution entry"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "download-page.html",
+    "url": "https://www.blender.org/download/"
+  },
+  {
+    "id": "release-root.html",
+    "url": "https://download.blender.org/release/"
+  },
+  {
+    "id": "blender-5.2.2.sha256",
+    "url": "https://download.blender.org/release/Blender5.2/blender-5.2.2.sha256"
+  },
+  {
+    "id": "blender-new-tag.json",
+    "url": "https://projects.blender.org/api/v1/repos/blender/blender/tags/v5.2.2"
+  },
+  {
+    "id": "release-corrective.html",
+    "url": "https://developer.blender.org/docs/release_notes/5.2/corrective_releases/"
+  },
+  {
+    "id": "bpy-new-pypi.json",
+    "url": "https://pypi.org/pypi/bpy/5.2.2/json"
+  }
+]

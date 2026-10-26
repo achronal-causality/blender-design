@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "scope": "Fresh build, PNG header, relocated scene reopen and independent structural inspection; visual inspection is separate.",
+  "artifacts": {
+    "scene/divider.blend": "afdfe03aca9662bb5c18af0f49239ff41b139ed9a22ad25522ea41fad2300ab8",
+    "scene/preview.png": "e701f733c18cdcf512e9ce64c7d8ec128390f94142b1db858d8c802c460d6f7e",
+    "relocated/divider.blend": "afdfe03aca9662bb5c18af0f49239ff41b139ed9a22ad25522ea41fad2300ab8"
+  },
+  "parameters": {
+    "width": 1,
+    "angle": 28
+  },
+  "source_hashes": {
+    "build_divider.py": "21cf6f39074a2b220ea3f1756e81cc9206f8cdced900725ef4b0a56497ada457",
+    "run_example.py": "763ab0ced0bea771f0e72725977277ecf00393c274df9311c49df6abba003711",
+    "inspect_divider.py": "da01489f7875d80f6dd6492cd132d4461d657c315cee533e489ccb2212895a82"
+  }
+}

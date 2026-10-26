@@ -1,0 +1,21 @@
+{
+  "name": "blender-design",
+  "version": "1.2.0",
+  "description": "Procedural Blender design through explicit relationships, rendered feedback, and a traceable technical reference.",
+  "author": {
+    "name": "Julian Turner"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Blender Design",
+    "shortDescription": "Procedural Blender design with a full local reference",
+    "longDescription": "Build and revise editable Blender scenes through Python. Includes detailed technical findings, a runnable example, and verified Poly Haven asset helpers. Full historical captures are separately preserved.",
+    "developerName": "Julian Turner",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Create an editable procedural object in Blender.",
+      "Revise this Blender scene while preserving its relationships."
+    ]
+  }
+}

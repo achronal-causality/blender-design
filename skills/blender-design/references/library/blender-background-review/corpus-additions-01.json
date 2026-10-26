@@ -1,0 +1,74 @@
+[
+  {
+    "id": "manual-modeling--meshes--structure--normals.html",
+    "url": "https://docs.blender.org/manual/en/5.2/modeling/meshes/editing/mesh/normals.html",
+    "kind": "manual",
+    "reason": "Resolve moved or inaccessible initial URL; same selected subject"
+  },
+  {
+    "id": "manual-modeling--objects--properties--transforms.html",
+    "url": "https://docs.blender.org/manual/en/5.2/scene_layout/object/properties/transforms.html",
+    "kind": "manual",
+    "reason": "Resolve moved or inaccessible initial URL; same selected subject"
+  },
+  {
+    "id": "manual-files--blend--save_load.html",
+    "url": "https://docs.blender.org/manual/en/5.2/files/blend/open_save.html",
+    "kind": "manual",
+    "reason": "Resolve moved or inaccessible initial URL; same selected subject"
+  },
+  {
+    "id": "manual-render--output--properties--dimensions.html",
+    "url": "https://docs.blender.org/manual/en/5.2/render/output/properties/format.html",
+    "kind": "manual",
+    "reason": "Resolve moved or inaccessible initial URL; same selected subject"
+  },
+  {
+    "id": "manual-modeling--modifiers--generate--geometry_nodes.html",
+    "url": "https://docs.blender.org/manual/en/5.2/modeling/modifiers/geometry_nodes.html",
+    "kind": "manual",
+    "reason": "Resolve moved or inaccessible initial URL; same selected subject"
+  },
+  {
+    "id": "src-source--blender--nodes--shader--nodes--node_shader_vectMath.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/nodes/shader/nodes/node_shader_vector_math.cc",
+    "kind": "implementation",
+    "reason": "Correct filename verified against pinned source tree"
+  },
+  {
+    "id": "include-simple.py",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/scripts/templates_py/Operator/simple.py",
+    "kind": "official-example",
+    "reason": "Literal include in mandatory quickstart guide"
+  },
+  {
+    "id": "include-panel_simple.py",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/scripts/templates_py/UI/panel_simple.py",
+    "kind": "official-example",
+    "reason": "Literal include in mandatory quickstart guide"
+  },
+  {
+    "id": "compatibility.html",
+    "url": "https://developer.blender.org/docs/release_notes/compatibility/",
+    "kind": "selected-migration",
+    "reason": "Resolve conflicting GN modifier access examples"
+  },
+  {
+    "id": "bugfixes.html",
+    "url": "https://developer.blender.org/docs/release_notes/5.2/bugfixes/",
+    "kind": "index",
+    "reason": "Discover relevant resolved failures"
+  },
+  {
+    "id": "release-patches.html",
+    "url": "https://www.blender.org/releases/5-2/",
+    "kind": "index",
+    "reason": "Check corrective fixes relevant to pinned baseline"
+  },
+  {
+    "id": "manual-directory-layout.html",
+    "url": "https://docs.blender.org/manual/en/5.2/advanced/blender_directory_layout.html",
+    "kind": "manual",
+    "reason": "Resolve imports and configuration environment"
+  }
+]

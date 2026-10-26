@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender Design"
+  short_description: "Procedural Blender design with a full local reference"
+  default_prompt: "Use $blender-design to build and inspect an editable procedural Blender object."

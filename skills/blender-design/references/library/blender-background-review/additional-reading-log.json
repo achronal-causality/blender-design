@@ -1,0 +1,219 @@
+[
+  {
+    "id": "add-api-AreaLight.html",
+    "path": "evidence/add-api-AreaLight.article.txt",
+    "start": 1,
+    "end": 138,
+    "disposition": "Complete defining content read; inherited definitions cross-referenced to already read defining pages; reference-only inherited lists not reread"
+  },
+  {
+    "id": "add-api-BlendDataCameras.html",
+    "path": "evidence/add-api-BlendDataCameras.article.txt",
+    "start": 1,
+    "end": 80,
+    "disposition": "Complete defining content read; inherited definitions cross-referenced to already read defining pages; reference-only inherited lists not reread"
+  },
+  {
+    "id": "add-api-BlendDataLights.html",
+    "path": "evidence/add-api-BlendDataLights.article.txt",
+    "start": 1,
+    "end": 82,
+    "disposition": "Complete defining content read; inherited definitions cross-referenced to already read defining pages; reference-only inherited lists not reread"
+  },
+  {
+    "id": "add-api-BlendDataNodeTrees.html",
+    "path": "evidence/add-api-BlendDataNodeTrees.article.txt",
+    "start": 1,
+    "end": 95,
+    "disposition": "Complete defining content read; inherited definitions cross-referenced to already read defining pages; reference-only inherited lists not reread"
+  },
+  {
+    "id": "add-api-BlendDataWorlds.html",
+    "path": "evidence/add-api-BlendDataWorlds.article.txt",
+    "start": 1,
+    "end": 80,
+    "disposition": "Complete defining content read; inherited definitions cross-referenced to already read defining pages; reference-only inherited lists not reread"
+  },
+  {
+    "id": "add-api-CameraDOFSettings.html",
+    "path": "evidence/add-api-CameraDOFSettings.article.txt",
+    "start": 1,
+    "end": 106,
+    "disposition": "Complete defining content read; inherited definitions cross-referenced to already read defining pages; reference-only inherited lists not reread"
+  },
+  {
+    "id": "add-api-CurveSplines.html",
+    "path": "evidence/add-api-CurveSplines.article.txt",
+    "start": 1,
+    "end": 78,
+    "disposition": "Complete defining content read; inherited definitions cross-referenced to already read defining pages; reference-only inherited lists not reread"
+  },
+  {
+    "id": "add-api-GeometryNodeTree.html",
+    "path": "evidence/add-api-GeometryNodeTree.article.txt",
+    "start": 1,
+    "end": 146,
+    "disposition": "Complete defining content read; inherited definitions cross-referenced to already read defining pages; reference-only inherited lists not reread"
+  },
+  {
+    "id": "add-api-IDMaterials.html",
+    "path": "evidence/add-api-IDMaterials.article.txt",
+    "start": 1,
+    "end": 70,
+    "disposition": "Complete defining content read; inherited definitions cross-referenced to already read defining pages; reference-only inherited lists not reread"
+  },
+  {
+    "id": "add-api-LayerCollection.html",
+    "path": "evidence/add-api-LayerCollection.article.txt",
+    "start": 1,
+    "end": 130,
+    "disposition": "Complete defining content read; inherited definitions cross-referenced to already read defining pages; reference-only inherited lists not reread"
+  },
+  {
+    "id": "add-api-LayerObjects.html",
+    "path": "evidence/add-api-LayerObjects.article.txt",
+    "start": 1,
+    "end": 58,
+    "disposition": "Complete defining content read; inherited definitions cross-referenced to already read defining pages; reference-only inherited lists not reread"
+  },
+  {
+    "id": "add-api-MaterialSlot.html",
+    "path": "evidence/add-api-MaterialSlot.article.txt",
+    "start": 1,
+    "end": 74,
+    "disposition": "Complete defining content read; inherited definitions cross-referenced to already read defining pages; reference-only inherited lists not reread"
+  },
+  {
+    "id": "add-api-NodeSocketColor.html",
+    "path": "evidence/add-api-NodeSocketColor.article.txt",
+    "start": 1,
+    "end": 64,
+    "disposition": "Complete defining content read; inherited definitions cross-referenced to already read defining pages; reference-only inherited lists not reread"
+  },
+  {
+    "id": "add-api-NodeSocketFloat.html",
+    "path": "evidence/add-api-NodeSocketFloat.article.txt",
+    "start": 1,
+    "end": 64,
+    "disposition": "Complete defining content read; inherited definitions cross-referenced to already read defining pages; reference-only inherited lists not reread"
+  },
+  {
+    "id": "add-api-NodeSocketInt.html",
+    "path": "evidence/add-api-NodeSocketInt.article.txt",
+    "start": 1,
+    "end": 64,
+    "disposition": "Complete defining content read; inherited definitions cross-referenced to already read defining pages; reference-only inherited lists not reread"
+  },
+  {
+    "id": "add-api-NodeSocketVector.html",
+    "path": "evidence/add-api-NodeSocketVector.article.txt",
+    "start": 1,
+    "end": 64,
+    "disposition": "Complete defining content read; inherited definitions cross-referenced to already read defining pages; reference-only inherited lists not reread"
+  },
+  {
+    "id": "add-api-NodeTreeInterfaceItem.html",
+    "path": "evidence/add-api-NodeTreeInterfaceItem.article.txt",
+    "start": 1,
+    "end": 80,
+    "disposition": "Complete defining content read; inherited definitions cross-referenced to already read defining pages; reference-only inherited lists not reread"
+  },
+  {
+    "id": "add-api-NodeTreeInterfaceSocketFloat.html",
+    "path": "evidence/add-api-NodeTreeInterfaceSocketFloat.article.txt",
+    "start": 1,
+    "end": 106,
+    "disposition": "Complete defining content read; inherited definitions cross-referenced to already read defining pages; reference-only inherited lists not reread"
+  },
+  {
+    "id": "add-api-NodesModifierProperties.html",
+    "path": "evidence/add-api-NodesModifierProperties.article.txt",
+    "start": 1,
+    "end": 56,
+    "disposition": "Complete defining content read; inherited definitions cross-referenced to already read defining pages; reference-only inherited lists not reread"
+  },
+  {
+    "id": "add-api-ShaderNodeBackground.html",
+    "path": "evidence/add-api-ShaderNodeBackground.article.txt",
+    "start": 1,
+    "end": 87,
+    "disposition": "Complete defining content read; inherited definitions cross-referenced to already read defining pages; reference-only inherited lists not reread"
+  },
+  {
+    "id": "add-api-ShaderNodeOutputWorld.html",
+    "path": "evidence/add-api-ShaderNodeOutputWorld.article.txt",
+    "start": 1,
+    "end": 111,
+    "disposition": "Complete defining content read; inherited definitions cross-referenced to already read defining pages; reference-only inherited lists not reread"
+  },
+  {
+    "id": "add-api-ShaderNodeTree.html",
+    "path": "evidence/add-api-ShaderNodeTree.article.txt",
+    "start": 1,
+    "end": 68,
+    "disposition": "Complete defining content read; inherited definitions cross-referenced to already read defining pages; reference-only inherited lists not reread"
+  },
+  {
+    "id": "add-api-SplineBezierPoints.html",
+    "path": "evidence/add-api-SplineBezierPoints.article.txt",
+    "start": 1,
+    "end": 50,
+    "disposition": "Complete defining content read; inherited definitions cross-referenced to already read defining pages; reference-only inherited lists not reread"
+  },
+  {
+    "id": "add-api-SplinePoints.html",
+    "path": "evidence/add-api-SplinePoints.article.txt",
+    "start": 1,
+    "end": 50,
+    "disposition": "Complete defining content read; inherited definitions cross-referenced to already read defining pages; reference-only inherited lists not reread"
+  },
+  {
+    "id": "add-api-bpy_prop_collection.html",
+    "path": "evidence/add-api-bpy_prop_collection.article.txt",
+    "start": 1,
+    "end": 198,
+    "disposition": "Complete defining content read; inherited definitions cross-referenced to already read defining pages; reference-only inherited lists not reread"
+  },
+  {
+    "id": "add-manual-modeling--meshes--properties--attributes.html",
+    "path": "evidence/add-manual-modeling--meshes--properties--attributes.article.txt",
+    "start": 1,
+    "end": 534,
+    "disposition": "Complete selected narrative unit read"
+  },
+  {
+    "id": "add-manual-modeling--modifiers--generate--array_legacy.html",
+    "path": "evidence/add-manual-modeling--modifiers--generate--array_legacy.article.txt",
+    "start": 1,
+    "end": 133,
+    "disposition": "Complete selected narrative unit read"
+  },
+  {
+    "id": "add-manual-render--color_spaces.html",
+    "path": "evidence/add-manual-render--color_spaces.article.txt",
+    "start": 1,
+    "end": 246,
+    "disposition": "Complete selected narrative unit read"
+  },
+  {
+    "id": "add-manual-render--displays_views.html",
+    "path": "evidence/add-manual-render--displays_views.article.txt",
+    "start": 1,
+    "end": 287,
+    "disposition": "Complete selected narrative unit read"
+  },
+  {
+    "id": "add-manual-render--opencolorio.html",
+    "path": "evidence/add-manual-render--opencolorio.article.txt",
+    "start": 1,
+    "end": 90,
+    "disposition": "Complete selected narrative unit read"
+  },
+  {
+    "id": "add-manual-render--system_configuration.html",
+    "path": "evidence/add-manual-render--system_configuration.article.txt",
+    "start": 1,
+    "end": 159,
+    "disposition": "Complete selected narrative unit read"
+  }
+]

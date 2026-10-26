@@ -1,0 +1,22 @@
+Blender Design
+Copyright (C) 2026 Julian Turner
+
+License allocation authorized by Julian Turner on 2026-10-26:
+
+1. Original Python code in this public package, including code examples
+   embedded in prose: GNU General Public License version 3 or, at your option,
+   any later version (SPDX-License-Identifier: GPL-3.0-or-later).
+   Full terms: licenses/GPL-3.0-or-later.txt.
+
+2. Original prose and original metadata: Creative Commons Attribution-
+   ShareAlike 4.0 International (SPDX-License-Identifier: CC-BY-SA-4.0).
+   Attribution: Julian Turner, Blender Design.
+   Terms: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+3. Third-party quotations, API declarations, trademarks, and referenced
+   material retain their original ownership and terms. These grants apply
+   only to rights controlled by Julian Turner. See NOTICE.md.
+
+This software is distributed without any warranty, including the implied
+warranties of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+See the full license texts for the applicable conditions and disclaimers.

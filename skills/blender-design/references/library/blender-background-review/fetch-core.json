@@ -1,0 +1,1142 @@
+[
+  {
+    "id": "info_quickstart.rst",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/doc/python_api/rst/info_quickstart.rst",
+    "kind": "narrative",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "info_api_reference.rst",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/doc/python_api/rst/info_api_reference.rst",
+    "kind": "narrative",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "info_best_practice.rst",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/doc/python_api/rst/info_best_practice.rst",
+    "kind": "narrative",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "info_gotcha.rst",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/doc/python_api/rst/info_gotcha.rst",
+    "kind": "narrative",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "info_gotchas_meshes.rst",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/doc/python_api/rst/info_gotchas_meshes.rst",
+    "kind": "narrative",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "info_gotchas_file_paths_and_encoding.rst",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/doc/python_api/rst/info_gotchas_file_paths_and_encoding.rst",
+    "kind": "narrative",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "info_gotchas_crashes.rst",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/doc/python_api/rst/info_gotchas_crashes.rst",
+    "kind": "narrative",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "bpy.app.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.app.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "bpy.path.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.path.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "bmesh.types.html",
+    "url": "https://docs.blender.org/api/5.2/bmesh.types.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "bmesh.ops.html",
+    "url": "https://docs.blender.org/api/5.2/bmesh.ops.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "bmesh.utils.html",
+    "url": "https://docs.blender.org/api/5.2/bmesh.utils.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "bmesh.geometry.html",
+    "url": "https://docs.blender.org/api/5.2/bmesh.geometry.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "mathutils.html",
+    "url": "https://docs.blender.org/api/5.2/mathutils.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-bpy_struct.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.bpy_struct.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-ID.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.ID.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-BlendData.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.BlendData.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-Context.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.Context.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-Object.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.Object.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-Collection.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.Collection.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-Scene.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.Scene.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-ViewLayer.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.ViewLayer.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-Depsgraph.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.Depsgraph.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-Mesh.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.Mesh.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-MeshVertex.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.MeshVertex.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-MeshEdge.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.MeshEdge.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-MeshLoop.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.MeshLoop.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-MeshPolygon.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.MeshPolygon.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-Attribute.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.Attribute.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-AttributeGroupMesh.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.AttributeGroupMesh.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-Curve.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.Curve.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-Spline.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.Spline.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-SplinePoint.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.SplinePoint.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-BezierSplinePoint.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.BezierSplinePoint.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-Modifier.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.Modifier.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-ArrayModifier.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.ArrayModifier.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-BevelModifier.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.BevelModifier.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-BooleanModifier.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.BooleanModifier.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-MirrorModifier.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.MirrorModifier.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-SolidifyModifier.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.SolidifyModifier.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-SubsurfModifier.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.SubsurfModifier.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-NodesModifier.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.NodesModifier.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-Node.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.Node.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-NodeSocket.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.NodeSocket.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-NodeLink.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.NodeLink.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-NodeTreeInterface.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.NodeTreeInterface.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-NodeTreeInterfaceSocket.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.NodeTreeInterfaceSocket.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-Material.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.Material.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-Camera.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.Camera.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-Light.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.Light.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-World.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.World.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-RenderSettings.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.RenderSettings.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-ImageFormatSettings.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.ImageFormatSettings.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-ColorManagedViewSettings.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.ColorManagedViewSettings.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-ColorManagedDisplaySettings.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.ColorManagedDisplaySettings.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-ColorManagedInputColorspaceSettings.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.ColorManagedInputColorspaceSettings.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-BlendDataObjects.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.BlendDataObjects.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-BlendDataMeshes.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.BlendDataMeshes.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-BlendDataCurves.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.BlendDataCurves.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-BlendDataCollections.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.BlendDataCollections.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-BlendDataMaterials.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.BlendDataMaterials.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-CollectionObjects.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.CollectionObjects.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-CollectionChildren.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.CollectionChildren.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-ObjectModifiers.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.ObjectModifiers.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-Nodes.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.Nodes.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-NodeLinks.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.NodeLinks.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-NodeGroupInput.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.NodeGroupInput.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-NodeGroupOutput.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.NodeGroupOutput.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-GeometryNodeMeshLine.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.GeometryNodeMeshLine.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-GeometryNodeMeshCube.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.GeometryNodeMeshCube.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-GeometryNodeTransform.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.GeometryNodeTransform.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-GeometryNodeInputPosition.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.GeometryNodeInputPosition.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-GeometryNodeSetPosition.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.GeometryNodeSetPosition.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-GeometryNodeInstanceOnPoints.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.GeometryNodeInstanceOnPoints.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-GeometryNodeRealizeInstances.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.GeometryNodeRealizeInstances.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-GeometryNodeJoinGeometry.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.GeometryNodeJoinGeometry.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-ShaderNodeMath.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.ShaderNodeMath.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-ShaderNodeVectorMath.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.ShaderNodeVectorMath.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-ShaderNodeOutputMaterial.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.ShaderNodeOutputMaterial.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-ShaderNodeBsdfPrincipled.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.ShaderNodeBsdfPrincipled.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-ShaderNodeRGB.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.ShaderNodeRGB.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-ShaderNodeValue.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.ShaderNodeValue.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-ShaderNodeTexCoord.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.ShaderNodeTexCoord.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-ShaderNodeMapping.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.ShaderNodeMapping.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "api-ShaderNodeTexNoise.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.ShaderNodeTexNoise.html",
+    "kind": "api",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "ops-wm.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.ops.wm.html",
+    "kind": "api-selected-entries",
+    "required_scope": "read_factory_settings; open_mainfile; save_as_mainfile; obj_export"
+  },
+  {
+    "id": "ops-object.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.ops.object.html",
+    "kind": "api-selected-entries",
+    "required_scope": "modifier_apply; mode_set"
+  },
+  {
+    "id": "ops-render.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.ops.render.html",
+    "kind": "api-selected-entries",
+    "required_scope": "render"
+  },
+  {
+    "id": "manual-advanced--command_line--render.html",
+    "url": "https://docs.blender.org/manual/en/5.2/advanced/command_line/render.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-advanced--scripting--introduction.html",
+    "url": "https://docs.blender.org/manual/en/5.2/advanced/scripting/introduction.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-modeling--meshes--structure.html",
+    "url": "https://docs.blender.org/manual/en/5.2/modeling/meshes/structure.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-modeling--meshes--structure--normals.html",
+    "url": "https://docs.blender.org/manual/en/5.2/modeling/meshes/structure/normals.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-modeling--meshes--properties--custom_data.html",
+    "url": "https://docs.blender.org/manual/en/5.2/modeling/meshes/properties/custom_data.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-modeling--objects--properties--transforms.html",
+    "url": "https://docs.blender.org/manual/en/5.2/modeling/objects/properties/transforms.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-scene_layout--object--editing--parent.html",
+    "url": "https://docs.blender.org/manual/en/5.2/scene_layout/object/editing/parent.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-modeling--modifiers--introduction.html",
+    "url": "https://docs.blender.org/manual/en/5.2/modeling/modifiers/introduction.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-modeling--curves--structure.html",
+    "url": "https://docs.blender.org/manual/en/5.2/modeling/curves/structure.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-modeling--curves--properties--shape.html",
+    "url": "https://docs.blender.org/manual/en/5.2/modeling/curves/properties/shape.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-modeling--curves--properties--geometry.html",
+    "url": "https://docs.blender.org/manual/en/5.2/modeling/curves/properties/geometry.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-modeling--modifiers--generate--array.html",
+    "url": "https://docs.blender.org/manual/en/5.2/modeling/modifiers/generate/array.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-modeling--modifiers--generate--bevel.html",
+    "url": "https://docs.blender.org/manual/en/5.2/modeling/modifiers/generate/bevel.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-modeling--modifiers--generate--booleans.html",
+    "url": "https://docs.blender.org/manual/en/5.2/modeling/modifiers/generate/booleans.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-modeling--modifiers--generate--mirror.html",
+    "url": "https://docs.blender.org/manual/en/5.2/modeling/modifiers/generate/mirror.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-modeling--modifiers--generate--solidify.html",
+    "url": "https://docs.blender.org/manual/en/5.2/modeling/modifiers/generate/solidify.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-modeling--modifiers--generate--subdivision_surface.html",
+    "url": "https://docs.blender.org/manual/en/5.2/modeling/modifiers/generate/subdivision_surface.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-modeling--modifiers--generate--geometry_nodes.html",
+    "url": "https://docs.blender.org/manual/en/5.2/modeling/modifiers/generate/geometry_nodes.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-modeling--geometry_nodes--fields.html",
+    "url": "https://docs.blender.org/manual/en/5.2/modeling/geometry_nodes/fields.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-modeling--geometry_nodes--instances.html",
+    "url": "https://docs.blender.org/manual/en/5.2/modeling/geometry_nodes/instances.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-modeling--geometry_nodes--mesh--primitives--mesh_line.html",
+    "url": "https://docs.blender.org/manual/en/5.2/modeling/geometry_nodes/mesh/primitives/mesh_line.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-modeling--geometry_nodes--mesh--primitives--cube.html",
+    "url": "https://docs.blender.org/manual/en/5.2/modeling/geometry_nodes/mesh/primitives/cube.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-modeling--geometry_nodes--geometry--operations--transform_geometry.html",
+    "url": "https://docs.blender.org/manual/en/5.2/modeling/geometry_nodes/geometry/operations/transform_geometry.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-modeling--geometry_nodes--geometry--read--position.html",
+    "url": "https://docs.blender.org/manual/en/5.2/modeling/geometry_nodes/geometry/read/position.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-modeling--geometry_nodes--geometry--write--set_position.html",
+    "url": "https://docs.blender.org/manual/en/5.2/modeling/geometry_nodes/geometry/write/set_position.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-modeling--geometry_nodes--instances--instance_on_points.html",
+    "url": "https://docs.blender.org/manual/en/5.2/modeling/geometry_nodes/instances/instance_on_points.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-modeling--geometry_nodes--instances--realize_instances.html",
+    "url": "https://docs.blender.org/manual/en/5.2/modeling/geometry_nodes/instances/realize_instances.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-modeling--geometry_nodes--geometry--join_geometry.html",
+    "url": "https://docs.blender.org/manual/en/5.2/modeling/geometry_nodes/geometry/join_geometry.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-interface--controls--nodes--groups.html",
+    "url": "https://docs.blender.org/manual/en/5.2/interface/controls/nodes/groups.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-render--shader_nodes--converter--math.html",
+    "url": "https://docs.blender.org/manual/en/5.2/render/shader_nodes/converter/math.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-render--shader_nodes--converter--vector_math.html",
+    "url": "https://docs.blender.org/manual/en/5.2/render/shader_nodes/converter/vector_math.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-render--shader_nodes--output--material.html",
+    "url": "https://docs.blender.org/manual/en/5.2/render/shader_nodes/output/material.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-render--shader_nodes--shader--principled.html",
+    "url": "https://docs.blender.org/manual/en/5.2/render/shader_nodes/shader/principled.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-render--shader_nodes--input--rgb.html",
+    "url": "https://docs.blender.org/manual/en/5.2/render/shader_nodes/input/rgb.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-render--shader_nodes--input--value.html",
+    "url": "https://docs.blender.org/manual/en/5.2/render/shader_nodes/input/value.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-render--shader_nodes--input--texture_coordinate.html",
+    "url": "https://docs.blender.org/manual/en/5.2/render/shader_nodes/input/texture_coordinate.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-render--shader_nodes--vector--mapping.html",
+    "url": "https://docs.blender.org/manual/en/5.2/render/shader_nodes/vector/mapping.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-render--shader_nodes--textures--noise.html",
+    "url": "https://docs.blender.org/manual/en/5.2/render/shader_nodes/textures/noise.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-render--cameras.html",
+    "url": "https://docs.blender.org/manual/en/5.2/render/cameras.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-render--lights--light_object.html",
+    "url": "https://docs.blender.org/manual/en/5.2/render/lights/light_object.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-render--materials--introduction.html",
+    "url": "https://docs.blender.org/manual/en/5.2/render/materials/introduction.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-render--materials--assignment.html",
+    "url": "https://docs.blender.org/manual/en/5.2/render/materials/assignment.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-render--lights--world.html",
+    "url": "https://docs.blender.org/manual/en/5.2/render/lights/world.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-render--color_management.html",
+    "url": "https://docs.blender.org/manual/en/5.2/render/color_management.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-render--cycles--render_settings--sampling.html",
+    "url": "https://docs.blender.org/manual/en/5.2/render/cycles/render_settings/sampling.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-render--cycles--render_settings--performance.html",
+    "url": "https://docs.blender.org/manual/en/5.2/render/cycles/render_settings/performance.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-render--output--properties--output.html",
+    "url": "https://docs.blender.org/manual/en/5.2/render/output/properties/output.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-render--output--properties--dimensions.html",
+    "url": "https://docs.blender.org/manual/en/5.2/render/output/properties/dimensions.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-files--blend--save_load.html",
+    "url": "https://docs.blender.org/manual/en/5.2/files/blend/save_load.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-files--blend--packed_data.html",
+    "url": "https://docs.blender.org/manual/en/5.2/files/blend/packed_data.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-files--blend--rename.html",
+    "url": "https://docs.blender.org/manual/en/5.2/files/blend/rename.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "manual-files--import_export--obj.html",
+    "url": "https://docs.blender.org/manual/en/5.2/files/import_export/obj.html",
+    "kind": "manual",
+    "required_scope": "Complete selected documentation unit"
+  },
+  {
+    "id": "src-source--creator--creator.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/creator/creator.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--python--intern--bpy_operator_function.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/python/intern/bpy_operator_function.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--python--intern--bpy_operator_wrap.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/python/intern/bpy_operator_wrap.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--python--intern--bpy_rna_context.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/python/intern/bpy_rna_context.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--makesrna--intern--rna_main_api.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/makesrna/intern/rna_main_api.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--makesrna--intern--rna_ID.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/makesrna/intern/rna_ID.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--makesrna--intern--rna_object_api.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/makesrna/intern/rna_object_api.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--makesrna--intern--rna_mesh.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/makesrna/intern/rna_mesh.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--makesrna--intern--rna_mesh_api.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/makesrna/intern/rna_mesh_api.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--makesrna--intern--rna_depsgraph.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/makesrna/intern/rna_depsgraph.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--blenkernel--intern--mesh_validate.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/blenkernel/intern/mesh_validate.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--python--bmesh--bmesh_py_api.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/python/bmesh/bmesh_py_api.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--python--bmesh--bmesh_py_types.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/python/bmesh/bmesh_py_types.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--python--bmesh--bmesh_py_ops_call.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/python/bmesh/bmesh_py_ops_call.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--bmesh--operators--bmo_extrude.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/bmesh/operators/bmo_extrude.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--bmesh--operators--bmo_bevel.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/bmesh/operators/bmo_bevel.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--makesrna--intern--rna_curve.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/makesrna/intern/rna_curve.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--makesrna--intern--rna_modifier.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/makesrna/intern/rna_modifier.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--modifiers--intern--MOD_array.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/modifiers/intern/MOD_array.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--modifiers--intern--MOD_bevel.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/modifiers/intern/MOD_bevel.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--modifiers--intern--MOD_boolean.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/modifiers/intern/MOD_boolean.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--modifiers--intern--MOD_mirror.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/modifiers/intern/MOD_mirror.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--modifiers--intern--MOD_solidify.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/modifiers/intern/MOD_solidify.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--modifiers--intern--MOD_subsurf.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/modifiers/intern/MOD_subsurf.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--makesrna--intern--rna_nodetree.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/makesrna/intern/rna_nodetree.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--modifiers--intern--MOD_nodes.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/modifiers/intern/MOD_nodes.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--windowmanager--intern--wm_files.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/windowmanager/intern/wm_files.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--editors--render--render_internal.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/editors/render/render_internal.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-intern--cycles--blender--addon--engine.py",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/intern/cycles/blender/addon/engine.py",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-intern--cycles--blender--addon--properties.py",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/intern/cycles/blender/addon/properties.py",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--io--wavefront_obj--exporter--obj_exporter.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/io/wavefront_obj/exporter/obj_exporter.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--nodes--geometry--nodes--node_geo_mesh_primitive_line.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/nodes/geometry/nodes/node_geo_mesh_primitive_line.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--nodes--geometry--nodes--node_geo_mesh_primitive_cube.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/nodes/geometry/nodes/node_geo_mesh_primitive_cube.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--nodes--geometry--nodes--node_geo_transform_geometry.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/nodes/geometry/nodes/node_geo_transform_geometry.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--nodes--geometry--nodes--node_geo_input_position.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/nodes/geometry/nodes/node_geo_input_position.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--nodes--geometry--nodes--node_geo_set_position.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/nodes/geometry/nodes/node_geo_set_position.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--nodes--geometry--nodes--node_geo_instance_on_points.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/nodes/geometry/nodes/node_geo_instance_on_points.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--nodes--geometry--nodes--node_geo_realize_instances.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/nodes/geometry/nodes/node_geo_realize_instances.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--nodes--geometry--nodes--node_geo_join_geometry.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/nodes/geometry/nodes/node_geo_join_geometry.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--nodes--shader--nodes--node_shader_math.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/nodes/shader/nodes/node_shader_math.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--nodes--shader--nodes--node_shader_vectMath.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/nodes/shader/nodes/node_shader_vectMath.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--nodes--shader--nodes--node_shader_output_material.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/nodes/shader/nodes/node_shader_output_material.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--nodes--shader--nodes--node_shader_bsdf_principled.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/nodes/shader/nodes/node_shader_bsdf_principled.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--nodes--shader--nodes--node_shader_rgb.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/nodes/shader/nodes/node_shader_rgb.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--nodes--shader--nodes--node_shader_value.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/nodes/shader/nodes/node_shader_value.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--nodes--shader--nodes--node_shader_tex_coord.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/nodes/shader/nodes/node_shader_tex_coord.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--nodes--shader--nodes--node_shader_mapping.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/nodes/shader/nodes/node_shader_mapping.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "src-source--blender--nodes--shader--nodes--node_shader_tex_noise.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/nodes/shader/nodes/node_shader_tex_noise.cc",
+    "kind": "implementation",
+    "required_scope": "Behavioral trace; exact inspected ranges recorded separately"
+  },
+  {
+    "id": "example-bmesh_simple_editmode.py",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/scripts/templates_py/bmesh_simple_editmode.py",
+    "kind": "official-example",
+    "required_scope": "Complete source; read only; never executed"
+  },
+  {
+    "id": "blender-tree.json",
+    "url": "https://api.github.com/repos/blender/blender/git/trees/d13f752e3b9c4f8c261cda552b1021f8bcc0382c?recursive=1",
+    "kind": "index",
+    "required_scope": "Path discovery only"
+  }
+]

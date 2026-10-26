@@ -1,0 +1,193 @@
+{
+  "checked_utc": "2026-09-15T19:36:36.616611+00:00",
+  "python": "3.13.13 (main, Apr 25 2025, 12:39:20) [Clang 21.0.0 (clang-2100.0.123.102)]",
+  "baseline_commit": "d13f752e3b9c4f8c261cda552b1021f8bcc0382c",
+  "status": "PASS",
+  "counts": {
+    "unique_planned_units": 298,
+    "current_receipts": 298,
+    "hash_verified_bodies": 295,
+    "git_blob_comparisons": 103,
+    "commit_pinned_bodies": 103,
+    "superseded_access_failures": 3,
+    "reused_preparation_bodies": 16,
+    "source_ranges": 120,
+    "source_files_inspected": 85,
+    "documentation_ranges": 196,
+    "markdown_documents": 23,
+    "local_links": 1377,
+    "heading_links": 73,
+    "python_fences_parsed": 22,
+    "unique_source_range_citations": 135,
+    "example_files_parsed": 5,
+    "modules": 10,
+    "claim_entries": 27,
+    "future_test_scenarios": 10,
+    "firsthand_reports": 10,
+    "search_queries": 11
+  },
+  "capture_kinds": {
+    "api": 107,
+    "manual": 60,
+    "implementation": 89,
+    "index": 3,
+    "selected-migration": 1,
+    "official-example": 5,
+    "report": 17,
+    "narrative": 12,
+    "api-selected-entries": 3,
+    "migration": 1
+  },
+  "errors": [],
+  "searches": [
+    {
+      "literal": "create mesh",
+      "expected_module": "10-recipes.md",
+      "found": [
+        "10-recipes.md"
+      ]
+    },
+    {
+      "literal": "revise dimensions",
+      "expected_module": "05-transforms.md",
+      "found": [
+        "10-recipes.md",
+        "05-transforms.md"
+      ]
+    },
+    {
+      "literal": "inspect evaluated geometry",
+      "expected_module": "10-recipes.md",
+      "found": [
+        "10-recipes.md"
+      ]
+    },
+    {
+      "literal": "recover after failure",
+      "expected_module": "10-recipes.md",
+      "found": [
+        "10-recipes.md"
+      ]
+    },
+    {
+      "literal": "bpy.data.objects",
+      "expected_module": "02-data.md",
+      "found": [
+        "07-render.md",
+        "02-data.md",
+        "09-revision.md"
+      ]
+    },
+    {
+      "literal": "bmesh.new",
+      "expected_module": "04-mesh.md",
+      "found": [
+        "10-recipes.md",
+        "02-data.md",
+        "04-mesh.md"
+      ]
+    },
+    {
+      "literal": "Object.evaluated_get",
+      "expected_module": "03-context.md",
+      "found": [
+        "03-context.md"
+      ]
+    },
+    {
+      "literal": "ReferenceError",
+      "expected_module": "02-data.md",
+      "found": [
+        "02-data.md"
+      ]
+    },
+    {
+      "literal": "context is incorrect",
+      "expected_module": "03-context.md",
+      "found": [
+        "03-context.md"
+      ]
+    },
+    {
+      "literal": "stale output",
+      "expected_module": "09-revision.md",
+      "found": [
+        "09-revision.md"
+      ]
+    },
+    {
+      "literal": "modifier.properties.inputs",
+      "expected_module": "06-nodes.md",
+      "found": [
+        "06-nodes.md"
+      ]
+    }
+  ],
+  "explicit_nonreading_dispositions": [
+    {
+      "id": "add-src-source--blender--blenkernel--intern--object_convert.cc",
+      "disposition": "Inaccessible guessed path; superseded by add-src-source--blender--blenkernel--intern--mesh_convert.cc"
+    },
+    {
+      "id": "add-src-source--blender--makesrna--intern--rna_node_socket.cc",
+      "disposition": "Captured dependency, not read; no independent claim based on this file"
+    },
+    {
+      "id": "add-src-source--blender--makesrna--intern--rna_nodes_modifier.cc",
+      "disposition": "Inaccessible guessed path; superseded by src-source--blender--makesrna--intern--rna_modifier.cc"
+    },
+    {
+      "id": "add-src-source--blender--makesrna--intern--rna_nodetree_interface.cc",
+      "disposition": "Inaccessible guessed path; superseded by add-src-source--blender--makesrna--intern--rna_node_tree_interface.cc"
+    },
+    {
+      "id": "blender-tree.json",
+      "disposition": "Metadata/index/discovery capture; not a completed documentation reading"
+    },
+    {
+      "id": "bugfixes.html",
+      "disposition": "Metadata/index/discovery capture; not a completed documentation reading"
+    },
+    {
+      "id": "release-patches.html",
+      "disposition": "Metadata/index/discovery capture; not a completed documentation reading"
+    }
+  ],
+  "limits": [
+    "Artifact validation only; Blender examples and capability tests not executed.",
+    "Logs document reading scope; automatic checks do not prove comprehension.",
+    "Source citation containment is not an automated semantic proof.",
+    "Published documentation is release-series HTML; no exact documentation-build revision claimed."
+  ],
+  "document_sha256": {
+    "API_INDEX.md": "c6596b9d074ea8b333c7f718e61ee8c66a745daaafc79d5b666df78eff35fe60",
+    "BASELINE.md": "1c659c6b76e6a5b0ecb21170f06b3377901d95bfd42e6e644027521857ee78bb",
+    "CLAIMS.md": "13041a6d5b1afa65c196f014c3b848ab6d26118729e832aacc7dd0f507a1032e",
+    "EXPERIENCE.md": "ff8b3bb72f1177851ab2a22e4aac0e176ce954689d7b01bda9e5b812eb14fd82",
+    "FAILURE_INDEX.md": "a62f849ec61ee608e2353ceb90884c0ca074a871a0f354ca2f097b7e1507d059",
+    "FUTURE_TESTS.md": "2a2776aba9f15abbc98d894e4dd36e60c66caf6e4c1e9d3d4118e3b51812c72b",
+    "GLOSSARY.md": "3f87617611dc744bc232fbb5a947a4cc6da7ca7a2b282b00c5eaac392de54b27",
+    "README.md": "0b4b3e0164284317859cb1400da74376e808ab68b460c5c78e0e1c525747f883",
+    "SOURCE_INDEX.md": "a9d19135e456e0fffeee5633e6a7e4e373f1b3fd6496f14b1c68f60f2f88ec84",
+    "SOURCE_TRACES.md": "39fdfcbfc7a88f2208eb13031f807b0914658a77f388d51d410ab52d3c28269e",
+    "TASK_INDEX.md": "c0156b3942d873e4162515e61dabf3c591634b5c1980a5e910d93ad44b895165",
+    "modules/01-execution.md": "0dcf02835b1b4b014573527c23f24286bf847edd6e4994a10b26433d5d56a59c",
+    "modules/02-data.md": "5d6d75afdade1a1ceb3290a11387c1436ee189e4b28776efbfd8c98519c1455f",
+    "modules/03-context.md": "8f507ae321ccee77678f2008efee2ec1b66655bfa2c488ad2e002b8aa14f242b",
+    "modules/04-mesh.md": "1b3533c5f1f9671e72f9b2e09fcfb8f18dbc0279660d15dbd3aac7b3459770e2",
+    "modules/05-transforms.md": "77d5a9db95e4c846263b8f9b88baf9633631e3bafee872112d43f4a3fc2a7c80",
+    "modules/06-nodes.md": "cf344c485079ec178dbbf202f567148b46b5be74cd29fb85e2c147fd3fbbfc69",
+    "modules/07-render.md": "8a71e2e516079ebe6fb915ddd5d59eeb8a389c198dff6e2e481669def58dabf7",
+    "modules/08-persistence.md": "05dcc931932f4e5b751a03f1c1a35877940bd86a8d24e1d5929ceabe7b388bd1",
+    "modules/09-revision.md": "ac05d45ce571118eaacb2a9a776484c0474ca5d58bac5faa31d587225867998b",
+    "modules/10-recipes.md": "9c697364dc7012c42e1fd15379587c56078dc1ff25dca9e277c33e30cce24e99",
+    "examples/README.md": "f2ef5d2150c9123f8568b8102077a1f3575a4ae689f68b5fc462550c248945be"
+  },
+  "example_sha256": {
+    "examples/persistence.py": "86739d217134586f782d33f663d74d69a204ec5467332e8d21aa2caa7c80dfcb",
+    "examples/instances.py": "dffffee6933bb27d13103f339d3bae7064212ebcb42699aa7ddcdd49194dde15",
+    "examples/inspection.py": "f5743e5f3f2789ddd1133af05033c798840c504932e6bbd76cd646f992d66d59",
+    "examples/mesh_patterns.py": "bfe325e1875521511143d40a5d24b4b0bfc7ab03a497859fd6220274ae72a9ba",
+    "examples/host_job.py": "055ce4775c3bb11b69f59e97615875dff5f5889e81728009bc66c4db643cc2dc"
+  }
+}

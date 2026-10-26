@@ -1,0 +1,1268 @@
+[
+  {
+    "batch": 0,
+    "units": [
+      {
+        "id": "info_quickstart.rst",
+        "path": "evidence/info_quickstart.rst",
+        "start": 1,
+        "end": 479
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 1,
+    "units": [
+      {
+        "id": "info_overview.rst",
+        "path": "evidence/info_overview.rst",
+        "start": 1,
+        "end": 487
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 2,
+    "units": [
+      {
+        "id": "info_api_reference.rst",
+        "path": "evidence/info_api_reference.rst",
+        "start": 1,
+        "end": 257
+      },
+      {
+        "id": "info_best_practice.rst",
+        "path": "evidence/info_best_practice.rst",
+        "start": 1,
+        "end": 362
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 3,
+    "units": [
+      {
+        "id": "info_tips_and_tricks.rst",
+        "path": "evidence/info_tips_and_tricks.rst",
+        "start": 1,
+        "end": 309
+      },
+      {
+        "id": "info_gotcha.rst",
+        "path": "evidence/info_gotcha.rst",
+        "start": 1,
+        "end": 19
+      },
+      {
+        "id": "info_gotchas_operators.rst",
+        "path": "evidence/info_gotchas_operators.rst",
+        "start": 1,
+        "end": 72
+      },
+      {
+        "id": "info_gotchas_meshes.rst",
+        "path": "evidence/info_gotchas_meshes.rst",
+        "start": 1,
+        "end": 111
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 4,
+    "units": [
+      {
+        "id": "info_gotchas_internal_data_and_python_objects.rst",
+        "path": "evidence/info_gotchas_internal_data_and_python_objects.rst",
+        "start": 1,
+        "end": 211
+      },
+      {
+        "id": "info_gotchas_file_paths_and_encoding.rst",
+        "path": "evidence/info_gotchas_file_paths_and_encoding.rst",
+        "start": 1,
+        "end": 75
+      },
+      {
+        "id": "info_gotchas_threading.rst",
+        "path": "evidence/info_gotchas_threading.rst",
+        "start": 1,
+        "end": 92
+      },
+      {
+        "id": "info_gotchas_crashes.rst",
+        "path": "evidence/info_gotchas_crashes.rst",
+        "start": 1,
+        "end": 314
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 5,
+    "units": [
+      {
+        "id": "bpy.app.html",
+        "path": "evidence/bpy.app.article.txt",
+        "start": 1,
+        "end": 572
+      },
+      {
+        "id": "bpy.path.html",
+        "path": "evidence/bpy.path.article.txt",
+        "start": 1,
+        "end": 284
+      },
+      {
+        "id": "bpy.data.html",
+        "path": "evidence/bpy.data.article.txt",
+        "start": 1,
+        "end": 36
+      },
+      {
+        "id": "bpy.context.html",
+        "path": "evidence/bpy.context.article.txt",
+        "start": 1,
+        "end": 18
+      },
+      {
+        "id": "bmesh.html",
+        "path": "evidence/bmesh.article.txt",
+        "start": 1,
+        "end": 203
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 6,
+    "units": [
+      {
+        "id": "bmesh.types.html",
+        "path": "evidence/bmesh.types.article.txt",
+        "start": 1,
+        "end": 1445
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 7,
+    "units": [
+      {
+        "id": "bmesh.types.html",
+        "path": "evidence/bmesh.types.article.txt",
+        "start": 1446,
+        "end": 2535
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 8,
+    "units": [
+      {
+        "id": "bmesh.ops.html",
+        "path": "evidence/bmesh.ops.article.txt",
+        "start": 1,
+        "end": 1051
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 9,
+    "units": [
+      {
+        "id": "bmesh.ops.html",
+        "path": "evidence/bmesh.ops.article.txt",
+        "start": 1052,
+        "end": 2065
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 10,
+    "units": [
+      {
+        "id": "bmesh.ops.html",
+        "path": "evidence/bmesh.ops.article.txt",
+        "start": 2066,
+        "end": 2382
+      },
+      {
+        "id": "bmesh.utils.html",
+        "path": "evidence/bmesh.utils.article.txt",
+        "start": 1,
+        "end": 268
+      },
+      {
+        "id": "bmesh.geometry.html",
+        "path": "evidence/bmesh.geometry.article.txt",
+        "start": 1,
+        "end": 25
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 11,
+    "units": [
+      {
+        "id": "mathutils.html",
+        "path": "evidence/mathutils.article.txt",
+        "start": 1,
+        "end": 1695
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 12,
+    "units": [
+      {
+        "id": "mathutils.html",
+        "path": "evidence/mathutils.article.txt",
+        "start": 1696,
+        "end": 5032
+      },
+      {
+        "id": "mathutils.html",
+        "path": "evidence/mathutils.article.txt",
+        "start": 5033,
+        "end": 5088
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 13,
+    "units": [
+      {
+        "id": "api-bpy_struct.html",
+        "path": "evidence/api-bpy_struct.article.txt",
+        "start": 1,
+        "end": 1466
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 14,
+    "units": [
+      {
+        "id": "api-bpy_struct.html",
+        "path": "evidence/api-bpy_struct.article.txt",
+        "start": 1467,
+        "end": 1927
+      },
+      {
+        "id": "api-ID.html",
+        "path": "evidence/api-ID.article.txt",
+        "start": 1,
+        "end": 689
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 15,
+    "units": [
+      {
+        "id": "api-BlendData.html",
+        "path": "evidence/api-BlendData.article.txt",
+        "start": 1,
+        "end": 594
+      },
+      {
+        "id": "api-Context.html",
+        "path": "evidence/api-Context.article.txt",
+        "start": 1,
+        "end": 1411
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 16,
+    "units": [
+      {
+        "id": "api-Object.html",
+        "path": "evidence/api-Object.article.txt",
+        "start": 1,
+        "end": 1400
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 17,
+    "units": [
+      {
+        "id": "api-Object.html",
+        "path": "evidence/api-Object.article.txt",
+        "start": 1401,
+        "end": 2129
+      },
+      {
+        "id": "api-Collection.html",
+        "path": "evidence/api-Collection.article.txt",
+        "start": 1,
+        "end": 426
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 18,
+    "units": [
+      {
+        "id": "api-Scene.html",
+        "path": "evidence/api-Scene.article.txt",
+        "start": 1,
+        "end": 888
+      },
+      {
+        "id": "api-ViewLayer.html",
+        "path": "evidence/api-ViewLayer.article.txt",
+        "start": 1,
+        "end": 639
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 19,
+    "units": [
+      {
+        "id": "api-Depsgraph.html",
+        "path": "evidence/api-Depsgraph.article.txt",
+        "start": 1,
+        "end": 675
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 20,
+    "units": [
+      {
+        "id": "api-Mesh.html",
+        "path": "evidence/api-Mesh.article.txt",
+        "start": 1,
+        "end": 894
+      },
+      {
+        "id": "api-MeshVertex.html",
+        "path": "evidence/api-MeshVertex.article.txt",
+        "start": 1,
+        "end": 157
+      },
+      {
+        "id": "api-MeshEdge.html",
+        "path": "evidence/api-MeshEdge.article.txt",
+        "start": 1,
+        "end": 161
+      },
+      {
+        "id": "api-MeshLoop.html",
+        "path": "evidence/api-MeshLoop.article.txt",
+        "start": 1,
+        "end": 157
+      },
+      {
+        "id": "api-MeshPolygon.html",
+        "path": "evidence/api-MeshPolygon.article.txt",
+        "start": 1,
+        "end": 201
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 21,
+    "units": [
+      {
+        "id": "api-Attribute.html",
+        "path": "evidence/api-Attribute.article.txt",
+        "start": 1,
+        "end": 328
+      },
+      {
+        "id": "api-AttributeGroupMesh.html",
+        "path": "evidence/api-AttributeGroupMesh.article.txt",
+        "start": 1,
+        "end": 203
+      },
+      {
+        "id": "api-Curve.html",
+        "path": "evidence/api-Curve.article.txt",
+        "start": 1,
+        "end": 620
+      },
+      {
+        "id": "api-Spline.html",
+        "path": "evidence/api-Spline.article.txt",
+        "start": 1,
+        "end": 307
+      },
+      {
+        "id": "api-SplinePoint.html",
+        "path": "evidence/api-SplinePoint.article.txt",
+        "start": 1,
+        "end": 157
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 22,
+    "units": [
+      {
+        "id": "api-BezierSplinePoint.html",
+        "path": "evidence/api-BezierSplinePoint.article.txt",
+        "start": 1,
+        "end": 197
+      },
+      {
+        "id": "api-Modifier.html",
+        "path": "evidence/api-Modifier.article.txt",
+        "start": 1,
+        "end": 379
+      },
+      {
+        "id": "api-ArrayModifier.html",
+        "path": "evidence/api-ArrayModifier.article.txt",
+        "start": 1,
+        "end": 272
+      },
+      {
+        "id": "api-BevelModifier.html",
+        "path": "evidence/api-BevelModifier.article.txt",
+        "start": 1,
+        "end": 399
+      },
+      {
+        "id": "api-BooleanModifier.html",
+        "path": "evidence/api-BooleanModifier.article.txt",
+        "start": 1,
+        "end": 237
+      },
+      {
+        "id": "api-MirrorModifier.html",
+        "path": "evidence/api-MirrorModifier.article.txt",
+        "start": 1,
+        "end": 255
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 23,
+    "units": [
+      {
+        "id": "api-SolidifyModifier.html",
+        "path": "evidence/api-SolidifyModifier.article.txt",
+        "start": 1,
+        "end": 351
+      },
+      {
+        "id": "api-SubsurfModifier.html",
+        "path": "evidence/api-SubsurfModifier.article.txt",
+        "start": 1,
+        "end": 267
+      },
+      {
+        "id": "api-NodesModifier.html",
+        "path": "evidence/api-NodesModifier.article.txt",
+        "start": 1,
+        "end": 283
+      },
+      {
+        "id": "api-NodeTree.html",
+        "path": "evidence/api-NodeTree.article.txt",
+        "start": 1,
+        "end": 557
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 24,
+    "units": [
+      {
+        "id": "api-Node.html",
+        "path": "evidence/api-Node.article.txt",
+        "start": 1,
+        "end": 942
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 25,
+    "units": [
+      {
+        "id": "api-NodeSocket.html",
+        "path": "evidence/api-NodeSocket.article.txt",
+        "start": 1,
+        "end": 693
+      },
+      {
+        "id": "api-NodeLink.html",
+        "path": "evidence/api-NodeLink.article.txt",
+        "start": 1,
+        "end": 183
+      },
+      {
+        "id": "api-NodeTreeInterface.html",
+        "path": "evidence/api-NodeTreeInterface.article.txt",
+        "start": 1,
+        "end": 230
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 26,
+    "units": [
+      {
+        "id": "api-NodeTreeInterfaceSocket.html",
+        "path": "evidence/api-NodeTreeInterfaceSocket.article.txt",
+        "start": 1,
+        "end": 515
+      },
+      {
+        "id": "api-Material.html",
+        "path": "evidence/api-Material.article.txt",
+        "start": 1,
+        "end": 664
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 27,
+    "units": [
+      {
+        "id": "api-Camera.html",
+        "path": "evidence/api-Camera.article.txt",
+        "start": 1,
+        "end": 733
+      },
+      {
+        "id": "api-Light.html",
+        "path": "evidence/api-Light.article.txt",
+        "start": 1,
+        "end": 374
+      },
+      {
+        "id": "api-World.html",
+        "path": "evidence/api-World.article.txt",
+        "start": 1,
+        "end": 352
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 28,
+    "units": [
+      {
+        "id": "api-RenderSettings.html",
+        "path": "evidence/api-RenderSettings.article.txt",
+        "start": 1,
+        "end": 1027
+      },
+      {
+        "id": "api-ImageFormatSettings.html",
+        "path": "evidence/api-ImageFormatSettings.article.txt",
+        "start": 1,
+        "end": 311
+      },
+      {
+        "id": "api-ColorManagedViewSettings.html",
+        "path": "evidence/api-ColorManagedViewSettings.article.txt",
+        "start": 1,
+        "end": 207
+      },
+      {
+        "id": "api-ColorManagedDisplaySettings.html",
+        "path": "evidence/api-ColorManagedDisplaySettings.article.txt",
+        "start": 1,
+        "end": 127
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 29,
+    "units": [
+      {
+        "id": "api-ColorManagedInputColorspaceSettings.html",
+        "path": "evidence/api-ColorManagedInputColorspaceSettings.article.txt",
+        "start": 1,
+        "end": 125
+      },
+      {
+        "id": "api-BlendDataObjects.html",
+        "path": "evidence/api-BlendDataObjects.article.txt",
+        "start": 1,
+        "end": 141
+      },
+      {
+        "id": "api-BlendDataMeshes.html",
+        "path": "evidence/api-BlendDataMeshes.article.txt",
+        "start": 1,
+        "end": 159
+      },
+      {
+        "id": "api-BlendDataCurves.html",
+        "path": "evidence/api-BlendDataCurves.article.txt",
+        "start": 1,
+        "end": 141
+      },
+      {
+        "id": "api-BlendDataCollections.html",
+        "path": "evidence/api-BlendDataCollections.article.txt",
+        "start": 1,
+        "end": 139
+      },
+      {
+        "id": "api-BlendDataMaterials.html",
+        "path": "evidence/api-BlendDataMaterials.article.txt",
+        "start": 1,
+        "end": 155
+      },
+      {
+        "id": "api-CollectionObjects.html",
+        "path": "evidence/api-CollectionObjects.article.txt",
+        "start": 1,
+        "end": 117
+      },
+      {
+        "id": "api-CollectionChildren.html",
+        "path": "evidence/api-CollectionChildren.article.txt",
+        "start": 1,
+        "end": 117
+      },
+      {
+        "id": "api-ObjectModifiers.html",
+        "path": "evidence/api-ObjectModifiers.article.txt",
+        "start": 1,
+        "end": 149
+      },
+      {
+        "id": "api-Nodes.html",
+        "path": "evidence/api-Nodes.article.txt",
+        "start": 1,
+        "end": 137
+      },
+      {
+        "id": "api-NodeLinks.html",
+        "path": "evidence/api-NodeLinks.article.txt",
+        "start": 1,
+        "end": 135
+      },
+      {
+        "id": "api-NodeGroupInput.html",
+        "path": "evidence/api-NodeGroupInput.article.txt",
+        "start": 1,
+        "end": 259
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 30,
+    "units": [
+      {
+        "id": "api-NodeGroupOutput.html",
+        "path": "evidence/api-NodeGroupOutput.article.txt",
+        "start": 1,
+        "end": 267
+      },
+      {
+        "id": "api-GeometryNodeMeshLine.html",
+        "path": "evidence/api-GeometryNodeMeshLine.article.txt",
+        "start": 1,
+        "end": 293
+      },
+      {
+        "id": "api-GeometryNodeMeshCube.html",
+        "path": "evidence/api-GeometryNodeMeshCube.article.txt",
+        "start": 1,
+        "end": 265
+      },
+      {
+        "id": "api-GeometryNodeTransform.html",
+        "path": "evidence/api-GeometryNodeTransform.article.txt",
+        "start": 1,
+        "end": 265
+      },
+      {
+        "id": "api-GeometryNodeInputPosition.html",
+        "path": "evidence/api-GeometryNodeInputPosition.article.txt",
+        "start": 1,
+        "end": 265
+      },
+      {
+        "id": "api-GeometryNodeSetPosition.html",
+        "path": "evidence/api-GeometryNodeSetPosition.article.txt",
+        "start": 1,
+        "end": 265
+      },
+      {
+        "id": "api-GeometryNodeInstanceOnPoints.html",
+        "path": "evidence/api-GeometryNodeInstanceOnPoints.article.txt",
+        "start": 1,
+        "end": 265
+      },
+      {
+        "id": "api-GeometryNodeRealizeInstances.html",
+        "path": "evidence/api-GeometryNodeRealizeInstances.article.txt",
+        "start": 1,
+        "end": 273
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 31,
+    "units": [
+      {
+        "id": "api-GeometryNodeJoinGeometry.html",
+        "path": "evidence/api-GeometryNodeJoinGeometry.article.txt",
+        "start": 1,
+        "end": 265
+      },
+      {
+        "id": "api-ShaderNodeMath.html",
+        "path": "evidence/api-ShaderNodeMath.article.txt",
+        "start": 1,
+        "end": 281
+      },
+      {
+        "id": "api-ShaderNodeVectorMath.html",
+        "path": "evidence/api-ShaderNodeVectorMath.article.txt",
+        "start": 1,
+        "end": 273
+      },
+      {
+        "id": "api-ShaderNodeOutputMaterial.html",
+        "path": "evidence/api-ShaderNodeOutputMaterial.article.txt",
+        "start": 1,
+        "end": 290
+      },
+      {
+        "id": "api-ShaderNodeBsdfPrincipled.html",
+        "path": "evidence/api-ShaderNodeBsdfPrincipled.article.txt",
+        "start": 1,
+        "end": 299
+      },
+      {
+        "id": "api-ShaderNodeRGB.html",
+        "path": "evidence/api-ShaderNodeRGB.article.txt",
+        "start": 1,
+        "end": 265
+      },
+      {
+        "id": "api-ShaderNodeValue.html",
+        "path": "evidence/api-ShaderNodeValue.article.txt",
+        "start": 1,
+        "end": 265
+      },
+      {
+        "id": "api-ShaderNodeTexCoord.html",
+        "path": "evidence/api-ShaderNodeTexCoord.article.txt",
+        "start": 1,
+        "end": 282
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 32,
+    "units": [
+      {
+        "id": "api-ShaderNodeMapping.html",
+        "path": "evidence/api-ShaderNodeMapping.article.txt",
+        "start": 1,
+        "end": 273
+      },
+      {
+        "id": "api-ShaderNodeTexNoise.html",
+        "path": "evidence/api-ShaderNodeTexNoise.article.txt",
+        "start": 1,
+        "end": 332
+      },
+      {
+        "id": "ops-wm.html",
+        "path": "evidence/ops-wm.article.selected.txt",
+        "start": 1,
+        "end": 364
+      },
+      {
+        "id": "ops-object.html",
+        "path": "evidence/ops-object.article.selected.txt",
+        "start": 1,
+        "end": 45
+      },
+      {
+        "id": "ops-render.html",
+        "path": "evidence/ops-render.article.selected.txt",
+        "start": 1,
+        "end": 30
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 33,
+    "units": [
+      {
+        "id": "manual-advanced--command_line--arguments.html",
+        "path": "evidence/manual-advanced--command_line--arguments.article.txt",
+        "start": 1,
+        "end": 578
+      },
+      {
+        "id": "manual-advanced--command_line--render.html",
+        "path": "evidence/manual-advanced--command_line--render.article.txt",
+        "start": 1,
+        "end": 88
+      },
+      {
+        "id": "manual-advanced--scripting--introduction.html",
+        "path": "evidence/manual-advanced--scripting--introduction.article.txt",
+        "start": 1,
+        "end": 119
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 34,
+    "units": [
+      {
+        "id": "manual-modeling--meshes--structure.html",
+        "path": "evidence/manual-modeling--meshes--structure.article.txt",
+        "start": 1,
+        "end": 225
+      },
+      {
+        "id": "manual-modeling--meshes--structure--normals.html",
+        "path": "evidence/manual-modeling--meshes--structure--normals.article.txt",
+        "start": 1,
+        "end": 356
+      },
+      {
+        "id": "manual-modeling--meshes--properties--custom_data.html",
+        "path": "evidence/manual-modeling--meshes--properties--custom_data.article.txt",
+        "start": 1,
+        "end": 54
+      },
+      {
+        "id": "manual-modeling--objects--properties--transforms.html",
+        "path": "evidence/manual-modeling--objects--properties--transforms.article.txt",
+        "start": 1,
+        "end": 140
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 35,
+    "units": [
+      {
+        "id": "manual-scene_layout--object--editing--parent.html",
+        "path": "evidence/manual-scene_layout--object--editing--parent.article.txt",
+        "start": 1,
+        "end": 337
+      },
+      {
+        "id": "manual-modeling--modifiers--introduction.html",
+        "path": "evidence/manual-modeling--modifiers--introduction.article.txt",
+        "start": 1,
+        "end": 231
+      },
+      {
+        "id": "manual-modeling--curves--structure.html",
+        "path": "evidence/manual-modeling--curves--structure.article.txt",
+        "start": 1,
+        "end": 98
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 36,
+    "units": [
+      {
+        "id": "manual-modeling--curves--properties--shape.html",
+        "path": "evidence/manual-modeling--curves--properties--shape.article.txt",
+        "start": 1,
+        "end": 86
+      },
+      {
+        "id": "manual-modeling--curves--properties--geometry.html",
+        "path": "evidence/manual-modeling--curves--properties--geometry.article.txt",
+        "start": 1,
+        "end": 230
+      },
+      {
+        "id": "manual-modeling--modifiers--generate--array.html",
+        "path": "evidence/manual-modeling--modifiers--generate--array.article.txt",
+        "start": 1,
+        "end": 179
+      },
+      {
+        "id": "manual-modeling--modifiers--generate--bevel.html",
+        "path": "evidence/manual-modeling--modifiers--generate--bevel.article.txt",
+        "start": 1,
+        "end": 270
+      },
+      {
+        "id": "manual-modeling--modifiers--generate--booleans.html",
+        "path": "evidence/manual-modeling--modifiers--generate--booleans.article.txt",
+        "start": 1,
+        "end": 112
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 37,
+    "units": [
+      {
+        "id": "manual-modeling--modifiers--generate--mirror.html",
+        "path": "evidence/manual-modeling--modifiers--generate--mirror.article.txt",
+        "start": 1,
+        "end": 108
+      },
+      {
+        "id": "manual-modeling--modifiers--generate--solidify.html",
+        "path": "evidence/manual-modeling--modifiers--generate--solidify.article.txt",
+        "start": 1,
+        "end": 212
+      },
+      {
+        "id": "manual-modeling--modifiers--generate--subdivision_surface.html",
+        "path": "evidence/manual-modeling--modifiers--generate--subdivision_surface.article.txt",
+        "start": 1,
+        "end": 221
+      },
+      {
+        "id": "manual-modeling--modifiers--generate--geometry_nodes.html",
+        "path": "evidence/manual-modeling--modifiers--generate--geometry_nodes.article.txt",
+        "start": 1,
+        "end": 107
+      },
+      {
+        "id": "manual-modeling--geometry_nodes--fields.html",
+        "path": "evidence/manual-modeling--geometry_nodes--fields.article.txt",
+        "start": 1,
+        "end": 90
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 38,
+    "units": [
+      {
+        "id": "manual-modeling--geometry_nodes--instances.html",
+        "path": "evidence/manual-modeling--geometry_nodes--instances.article.txt",
+        "start": 1,
+        "end": 74
+      },
+      {
+        "id": "manual-modeling--geometry_nodes--mesh--primitives--mesh_line.html",
+        "path": "evidence/manual-modeling--geometry_nodes--mesh--primitives--mesh_line.article.txt",
+        "start": 1,
+        "end": 59
+      },
+      {
+        "id": "manual-modeling--geometry_nodes--mesh--primitives--cube.html",
+        "path": "evidence/manual-modeling--geometry_nodes--mesh--primitives--cube.article.txt",
+        "start": 1,
+        "end": 28
+      },
+      {
+        "id": "manual-modeling--geometry_nodes--geometry--operations--transform_geometry.html",
+        "path": "evidence/manual-modeling--geometry_nodes--geometry--operations--transform_geometry.article.txt",
+        "start": 1,
+        "end": 46
+      },
+      {
+        "id": "manual-modeling--geometry_nodes--geometry--read--position.html",
+        "path": "evidence/manual-modeling--geometry_nodes--geometry--read--position.article.txt",
+        "start": 1,
+        "end": 26
+      },
+      {
+        "id": "manual-modeling--geometry_nodes--geometry--write--set_position.html",
+        "path": "evidence/manual-modeling--geometry_nodes--geometry--write--set_position.article.txt",
+        "start": 1,
+        "end": 34
+      },
+      {
+        "id": "manual-modeling--geometry_nodes--instances--instance_on_points.html",
+        "path": "evidence/manual-modeling--geometry_nodes--instances--instance_on_points.article.txt",
+        "start": 1,
+        "end": 73
+      },
+      {
+        "id": "manual-modeling--geometry_nodes--instances--realize_instances.html",
+        "path": "evidence/manual-modeling--geometry_nodes--instances--realize_instances.article.txt",
+        "start": 1,
+        "end": 55
+      },
+      {
+        "id": "manual-modeling--geometry_nodes--geometry--join_geometry.html",
+        "path": "evidence/manual-modeling--geometry_nodes--geometry--join_geometry.article.txt",
+        "start": 1,
+        "end": 40
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 39,
+    "units": [
+      {
+        "id": "manual-interface--controls--nodes--groups.html",
+        "path": "evidence/manual-interface--controls--nodes--groups.article.txt",
+        "start": 1,
+        "end": 612
+      },
+      {
+        "id": "manual-render--shader_nodes--converter--math.html",
+        "path": "evidence/manual-render--shader_nodes--converter--math.article.txt",
+        "start": 1,
+        "end": 236
+      },
+      {
+        "id": "manual-render--shader_nodes--converter--vector_math.html",
+        "path": "evidence/manual-render--shader_nodes--converter--vector_math.article.txt",
+        "start": 1,
+        "end": 173
+      },
+      {
+        "id": "manual-render--shader_nodes--output--material.html",
+        "path": "evidence/manual-render--shader_nodes--output--material.article.txt",
+        "start": 1,
+        "end": 61
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 40,
+    "units": [
+      {
+        "id": "manual-render--shader_nodes--shader--principled.html",
+        "path": "evidence/manual-render--shader_nodes--shader--principled.article.txt",
+        "start": 1,
+        "end": 339
+      },
+      {
+        "id": "manual-render--shader_nodes--input--rgb.html",
+        "path": "evidence/manual-render--shader_nodes--input--rgb.article.txt",
+        "start": 1,
+        "end": 25
+      },
+      {
+        "id": "manual-render--shader_nodes--input--value.html",
+        "path": "evidence/manual-render--shader_nodes--input--value.article.txt",
+        "start": 1,
+        "end": 32
+      },
+      {
+        "id": "manual-render--shader_nodes--input--texture_coordinate.html",
+        "path": "evidence/manual-render--shader_nodes--input--texture_coordinate.article.txt",
+        "start": 1,
+        "end": 75
+      },
+      {
+        "id": "manual-render--shader_nodes--vector--mapping.html",
+        "path": "evidence/manual-render--shader_nodes--vector--mapping.article.txt",
+        "start": 1,
+        "end": 84
+      },
+      {
+        "id": "manual-render--shader_nodes--textures--noise.html",
+        "path": "evidence/manual-render--shader_nodes--textures--noise.article.txt",
+        "start": 1,
+        "end": 180
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 41,
+    "units": [
+      {
+        "id": "manual-render--cameras.html",
+        "path": "evidence/manual-render--cameras.article.txt",
+        "start": 1,
+        "end": 400
+      },
+      {
+        "id": "manual-render--lights--light_object.html",
+        "path": "evidence/manual-render--lights--light_object.article.txt",
+        "start": 1,
+        "end": 282
+      },
+      {
+        "id": "manual-render--materials--introduction.html",
+        "path": "evidence/manual-render--materials--introduction.article.txt",
+        "start": 1,
+        "end": 79
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 42,
+    "units": [
+      {
+        "id": "manual-render--materials--assignment.html",
+        "path": "evidence/manual-render--materials--assignment.article.txt",
+        "start": 1,
+        "end": 163
+      },
+      {
+        "id": "manual-render--lights--world.html",
+        "path": "evidence/manual-render--lights--world.article.txt",
+        "start": 1,
+        "end": 65
+      },
+      {
+        "id": "manual-render--color_management.html",
+        "path": "evidence/manual-render--color_management.article.txt",
+        "start": 1,
+        "end": 51
+      },
+      {
+        "id": "manual-render--cycles--render_settings--sampling.html",
+        "path": "evidence/manual-render--cycles--render_settings--sampling.article.txt",
+        "start": 1,
+        "end": 294
+      },
+      {
+        "id": "manual-render--cycles--render_settings--performance.html",
+        "path": "evidence/manual-render--cycles--render_settings--performance.article.txt",
+        "start": 1,
+        "end": 202
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 43,
+    "units": [
+      {
+        "id": "manual-render--output--properties--output.html",
+        "path": "evidence/manual-render--output--properties--output.article.txt",
+        "start": 1,
+        "end": 364
+      },
+      {
+        "id": "manual-render--output--properties--dimensions.html",
+        "path": "evidence/manual-render--output--properties--dimensions.article.txt",
+        "start": 1,
+        "end": 57
+      },
+      {
+        "id": "manual-files--blend--save_load.html",
+        "path": "evidence/manual-files--blend--save_load.article.txt",
+        "start": 1,
+        "end": 266
+      },
+      {
+        "id": "manual-files--blend--packed_data.html",
+        "path": "evidence/manual-files--blend--packed_data.article.txt",
+        "start": 1,
+        "end": 130
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 44,
+    "units": [
+      {
+        "id": "manual-files--blend--rename.html",
+        "path": "evidence/manual-files--blend--rename.article.txt",
+        "start": 1,
+        "end": 159
+      },
+      {
+        "id": "manual-files--import_export--obj.html",
+        "path": "evidence/manual-files--import_export--obj.article.txt",
+        "start": 1,
+        "end": 212
+      },
+      {
+        "id": "release-python.html",
+        "path": "evidence/release-python.article.txt",
+        "start": 1,
+        "end": 197
+      },
+      {
+        "id": "example-background_job.py",
+        "path": "evidence/example-background_job.py",
+        "start": 1,
+        "end": 118
+      },
+      {
+        "id": "example-bmesh_simple.py",
+        "path": "evidence/example-bmesh_simple.py",
+        "start": 1,
+        "end": 22
+      },
+      {
+        "id": "example-bmesh_simple_editmode.py",
+        "path": "evidence/example-bmesh_simple_editmode.py",
+        "start": 1,
+        "end": 23
+      },
+      {
+        "id": "include-simple.py",
+        "path": "evidence/include-simple.py",
+        "start": 1,
+        "end": 42
+      },
+      {
+        "id": "include-panel_simple.py",
+        "path": "evidence/include-panel_simple.py",
+        "start": 1,
+        "end": 38
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  },
+  {
+    "batch": 45,
+    "units": [
+      {
+        "id": "compatibility.html",
+        "path": "evidence/compatibility.article.txt",
+        "start": 1,
+        "end": 323
+      },
+      {
+        "id": "manual-directory-layout.html",
+        "path": "evidence/manual-directory-layout.article.txt",
+        "start": 1,
+        "end": 227
+      }
+    ],
+    "disposition": "Read in full at displayed ranges; downloaded code not executed"
+  }
+]

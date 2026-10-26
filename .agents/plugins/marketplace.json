@@ -1,0 +1,20 @@
+{
+  "name": "blender-design-local",
+  "interface": {
+    "displayName": "Blender Design"
+  },
+  "plugins": [
+    {
+      "name": "blender-design",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "file": "/historical/author-home/.codex/.chatgpt-projects/g-p-6aa84ac26de08191bfdbcad4a9c41555/adjustable-desk-lamp/final-v2/axis-02.blend",
+  "blend_sha256": "1c3f4cece6ae70b6fa45a328b58eed435314863b6bbf5aae0b59cf930484c1cc",
+  "identity": {
+    "version": "5.2.2 LTS",
+    "build_hash": "d13f752e3b9c"
+  },
+  "source_text_sha256": "3874016d6ccfd950d88d64c0ca29eb6469ea10d35a072b61371c7563043b2ae4",
+  "parent_checks": 9,
+  "simple_native_drivers": 4,
+  "poses": {
+    "compact": {
+      "wrist_error_m": 3.0719530773294423e-08,
+      "head_axis_error": 1.744136200952474e-07,
+      "arm_lengths_m": [
+        0.2900000009660063,
+        0.2749999818984752
+      ],
+      "head_shell_desk_clearance_m": 0.27719396352767944,
+      "head_shell_vs_arm_surface_intersections": []
+    },
+    "reach": {
+      "wrist_error_m": 2.9802322387695312e-08,
+      "head_axis_error": 2.9802322387695312e-08,
+      "arm_lengths_m": [
+        0.28999998490872014,
+        0.2750000255013042
+      ],
+      "head_shell_desk_clearance_m": 0.40164247155189514,
+      "head_shell_vs_arm_surface_intersections": []
+    },
+    "turned": {
+      "wrist_error_m": 2.9802322387695312e-08,
+      "head_axis_error": 8.429369702178807e-08,
+      "arm_lengths_m": [
+        0.2899999768800767,
+        0.2749999924816868
+      ],
+      "head_shell_desk_clearance_m": 0.4437040686607361,
+      "head_shell_vs_arm_surface_intersections": []
+    },
+    "upright": {
+      "wrist_error_m": 6.365778852490731e-08,
+      "head_axis_error": 8.429369702178807e-08,
+      "arm_lengths_m": [
+        0.2900000041774634,
+        0.2750000365078425
+      ],
+      "head_shell_desk_clearance_m": 0.4674803614616394,
+      "head_shell_vs_arm_surface_intersections": []
+    },
+    "working": {
+      "wrist_error_m": 3.332000937312528e-08,
+      "head_axis_error": 1.4901161193847656e-08,
+      "arm_lengths_m": [
+        0.28999998972590607,
+        0.27499999417500054
+      ],
+      "head_shell_desk_clearance_m": 0.37401074171066284,
+      "head_shell_vs_arm_surface_intersections": []
+    },
+    "boundary-1": {
+      "wrist_error_m": 4.2146848510894035e-08,
+      "head_axis_error": 1.228781230931777e-07,
+      "arm_lengths_m": [
+        0.289999992134499,
+        0.2750000128014518
+      ],
+      "head_shell_desk_clearance_m": 0.3205714821815491,
+      "head_shell_vs_arm_surface_intersections": []
+    },
+    "boundary-2": {
+      "wrist_error_m": 4.2146848510894035e-08,
+      "head_axis_error": 8.940696716308594e-08,
+      "arm_lengths_m": [
+        0.289999992134499,
+        0.2750000128014518
+      ],
+      "head_shell_desk_clearance_m": 0.4533674120903015,
+      "head_shell_vs_arm_surface_intersections": []
+    },
+    "boundary-3": {
+      "wrist_error_m": 2.1073424255447017e-08,
+      "head_axis_error": 8.429369702178807e-08,
+      "arm_lengths_m": [
+        0.289999992134499,
+        0.27500001788139283
+      ],
+      "head_shell_desk_clearance_m": 0.009897109121084213,
+      "head_shell_vs_arm_surface_intersections": []
+    },
+    "boundary-4": {
+      "wrist_error_m": 2.1073424255447017e-08,
+      "head_axis_error": 1.7120130796843852e-07,
+      "arm_lengths_m": [
+        0.289999992134499,
+        0.27500001788139283
+      ],
+      "head_shell_desk_clearance_m": 0.14269302785396576,
+      "head_shell_vs_arm_surface_intersections": []
+    },
+    "boundary-5": {
+      "wrist_error_m": 7.450580596923828e-09,
+      "head_axis_error": 5.960464477539063e-08,
+      "arm_lengths_m": [
+        0.289999975274348,
+        0.275000007986091
+      ],
+      "head_shell_desk_clearance_m": 0.4279470443725586,
+      "head_shell_vs_arm_surface_intersections": []
+    },
+    "boundary-6": {
+      "wrist_error_m": 7.450580596923828e-09,
+      "head_axis_error": 8.429369702178807e-08,
+      "arm_lengths_m": [
+        0.289999975274348,
+        0.275000007986091
+      ],
+      "head_shell_desk_clearance_m": 0.560742974281311,
+      "head_shell_vs_arm_surface_intersections": []
+    },
+    "boundary-7": {
+      "wrist_error_m": 6.018390663491007e-08,
+      "head_axis_error": 5.960464477539063e-08,
+      "arm_lengths_m": [
+        0.289999975274348,
+        0.2750000026415695
+      ],
+      "head_shell_desk_clearance_m": 0.22516870498657227,
+      "head_shell_vs_arm_surface_intersections": []
+    },
+    "boundary-8": {
+      "wrist_error_m": 6.018390663491007e-08,
+      "head_axis_error": 6.664001874625056e-08,
+      "arm_lengths_m": [
+        0.289999975274348,
+        0.2750000026415695
+      ],
+      "head_shell_desk_clearance_m": 0.3579646348953247,
+      "head_shell_vs_arm_surface_intersections": []
+    }
+  },
+  "limitations": "Finite pose/selected-surface tests. No general all-pairs solid collision, mechanics or electrical certification."
+}

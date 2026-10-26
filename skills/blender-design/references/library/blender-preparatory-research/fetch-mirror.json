@@ -1,0 +1,54 @@
+[
+  {
+    "id": "info_overview.rst",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/doc/python_api/rst/info_overview.rst"
+  },
+  {
+    "id": "info_tips_and_tricks.rst",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/doc/python_api/rst/info_tips_and_tricks.rst"
+  },
+  {
+    "id": "info_advanced_blender_as_bpy.rst",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/doc/python_api/rst/info_advanced_blender_as_bpy.rst"
+  },
+  {
+    "id": "info_gotchas_operators.rst",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/doc/python_api/rst/info_gotchas_operators.rst"
+  },
+  {
+    "id": "info_gotchas_threading.rst",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/doc/python_api/rst/info_gotchas_threading.rst"
+  },
+  {
+    "id": "info_gotchas_internal_data_and_python_objects.rst",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/doc/python_api/rst/info_gotchas_internal_data_and_python_objects.rst"
+  },
+  {
+    "id": "bpy_operator.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/python/intern/bpy_operator.cc"
+  },
+  {
+    "id": "bpy_interface_run.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/python/intern/bpy_interface_run.cc"
+  },
+  {
+    "id": "bpy_app_timers.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/python/intern/bpy_app_timers.cc"
+  },
+  {
+    "id": "creator_args.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/creator/creator_args.cc"
+  },
+  {
+    "id": "BKE_blender_version.h",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/blenkernel/BKE_blender_version.h"
+  },
+  {
+    "id": "background_job.py",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/scripts/templates_py/background_job.py"
+  },
+  {
+    "id": "bmesh_simple.py",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/scripts/templates_py/bmesh_simple.py"
+  }
+]

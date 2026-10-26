@@ -1,0 +1,37 @@
+{
+  "observed_utc": "2026-09-15T18:21:19.874578+00:00",
+  "commands": [
+    {
+      "command": [
+        "/Applications/Blender.app/Contents/MacOS/Blender",
+        "--version"
+      ],
+      "returncode": 0,
+      "stdout": "Blender 5.2.2 LTS\n\tbuild date: 2026-09-15\n\tbuild time: 01:49:19\n\tbuild commit date: 2026-09-14\n\tbuild commit time: 15:14\n\tbuild hash: d13f752e3b9c\n\tbuild branch: blender-v5.2-release\n\tbuild platform: Darwin\n\tbuild type: Release\n\tbuild c flags:  -Wall -Werror=implicit-function-declaration -Werror=return-type -Wno-tautological-compare -Wno-unknown-pragmas -Wno-char-subscripts -Wstrict-prototypes -Wmissing-prototypes -Wunused-parameter -Wundef -Wundef-prefix -Werror=unguarded-availability-new  -mmacosx-version-min=11.2  -std=gnu11  -pipe -funsigned-char -fno-strict-aliasing -ffp-contract=off  \n\tbuild c++ flags:  -Wall -Wno-tautological-compare -Wno-unknown-pragmas -Wno-char-subscripts -Wno-overloaded-virtual -Wno-sign-compare -Wno-invalid-offsetof -Wno-suggest-override -Wundef -Wundef-prefix -Wunused-parameter -Wmismatched-tags -Werror=unguarded-availability-new  -mmacosx-version-min=11.2 -ftemplate-depth=1024   -pipe -funsigned-char -fno-strict-aliasing -ffp-contract=off  \n\tbuild link flags: -fexceptions -framework CoreServices -framework Foundation -framework IOKit -framework AppKit -framework Cocoa -framework Carbon -framework AudioUnit -framework AudioToolbox -framework CoreAudio -framework Metal -framework QuartzCore -framework CoreImage -framework OpenGL -framework Accelerate -liconv -Xlinker -no_warn_duplicate_libraries\n\tbuild system: CMake\n",
+      "stderr": " ArchWarn: ARCH_CACHE_LINE_SIZE != Arch_ObtainCacheLineSize()\n Function: Arch_ValidateAssumptions\n     File: /historical/user-home/blender-dev-deps/build_darwin/deps_arm64/build/usd/src/external_usd/pxr/base/arch/assumptions.cpp\n     Line: 140\n"
+    },
+    {
+      "command": [
+        "/usr/bin/file",
+        "/Applications/Blender.app/Contents/MacOS/Blender"
+      ],
+      "returncode": 0,
+      "stdout": "/Applications/Blender.app/Contents/MacOS/Blender: Mach-O 64-bit executable arm64\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "/Applications/Blender.app/Contents/Resources/5.2/python/bin/python3.13",
+        "-I",
+        "-B",
+        "-c",
+        "import sys; print(sys.version)"
+      ],
+      "returncode": 0,
+      "stdout": "3.13.13 (main, Apr 25 2025, 12:39:20) [Clang 21.0.0 (clang-2100.0.123.102)]\n",
+      "stderr": ""
+    }
+  ],
+  "expected_commit": "d13f752e3b9c4f8c261cda552b1021f8bcc0382c",
+  "version_matches": true
+}

@@ -1,0 +1,560 @@
+{
+  "format": 1,
+  "files": [
+    {
+      "path": ".agents/plugins/marketplace.json",
+      "bytes": 366,
+      "sha256": "bbcd1f02f319223659886a0a8d5088b37c53c25ff22ce658bb41889f5cc1406d"
+    },
+    {
+      "path": ".codex-plugin/plugin.json",
+      "bytes": 881,
+      "sha256": "0659aa8ee87b51ddeb140ed60f49a958a58f8f047461c0dfc204230e71cec5d6"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 60,
+      "sha256": "77d96198ad5c6fbd6e2315951963cd5af335d1d0418c59acb4c93f0ec51c9ea3"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 734,
+      "sha256": "0f0a40f072cdee6ef80de83cc389038324a5953edf4783fc9fb84408805f4a76"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1058,
+      "sha256": "50bf72fc2486541d2c623275ac5aef6c4d2ccf9db516b082d25ae8271722f302"
+    },
+    {
+      "path": "NOTICE.md",
+      "bytes": 1683,
+      "sha256": "32daba6cc053f607fbcea123b8bafdf8191b2da12a14c43d61a2235fddc969d6"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4337,
+      "sha256": "3f3f354f251e28f25e45538fb54f071428f7777bfe0310636a4df0dfd93215df"
+    },
+    {
+      "path": "VALIDATION.md",
+      "bytes": 4367,
+      "sha256": "216dbdab7248c9596df83ff6cfb70de98e6c5b6252fe2cf0fb1eded092c4c4d7"
+    },
+    {
+      "path": "docs/adr/0001-separate-public-reference-from-private-captures.md",
+      "bytes": 1864,
+      "sha256": "ba4c7052bcf3da41d23d57438776a5830b689628ba31b6156335535003b96574"
+    },
+    {
+      "path": "docs/archive.md",
+      "bytes": 2144,
+      "sha256": "d369e45bbd19bc9ce900ae86924492a3c5e99bcd5db68d34517aeecae242c62a"
+    },
+    {
+      "path": "docs/history.md",
+      "bytes": 4757,
+      "sha256": "b182f434f052a5322a7c282b64c2ce5ba96a5b26ef22e7ecaee3f5532e166efa"
+    },
+    {
+      "path": "docs/licensing.md",
+      "bytes": 2696,
+      "sha256": "cf4e5a03f1a626ad7fb9d9211d02bb36e6b66392635a73d9f3556ef824272a1d"
+    },
+    {
+      "path": "docs/preservation.json",
+      "bytes": 689151,
+      "sha256": "6a41ad1d92b1a4a2255aeb6fa105ec32c7b720053270b61b5e4ffcf97ff4e541"
+    },
+    {
+      "path": "docs/releasing.md",
+      "bytes": 1555,
+      "sha256": "80f195c9a63a0941bdfe086441ce9474590d7045ceee4309efb326030b256ebf"
+    },
+    {
+      "path": "docs/research-catalog.md",
+      "bytes": 484512,
+      "sha256": "2e2ebc0d1ca6179193a721fc15209389c5766b50357849ecdd963776f514f29d"
+    },
+    {
+      "path": "docs/verification/default-artifacts.json",
+      "bytes": 819,
+      "sha256": "2d2e150d54238015c0856abb64725f71735596912b567f3626d6d41fc617377a"
+    },
+    {
+      "path": "docs/verification/default-reopen.json",
+      "bytes": 383,
+      "sha256": "23a30154499aebb1d66d65b7c99c6e83f058df55bdc80908f5907548e0c6dec7"
+    },
+    {
+      "path": "docs/verification/wide-artifacts.json",
+      "bytes": 823,
+      "sha256": "0a6657e7afa4eb01526b61ec2020165a110fb6425d95509776dd850bd46f7f76"
+    },
+    {
+      "path": "docs/verification/wide-reopen.json",
+      "bytes": 383,
+      "sha256": "8ea2b1377ee23379cd688a96e1d2dedd315df9688bb349a7f7411a4c3955d5cd"
+    },
+    {
+      "path": "examples/README.md",
+      "bytes": 2229,
+      "sha256": "615d14a70e309e8afb4863e62000ff060eb4123edbcf1b618f8e6bd892b2cdde"
+    },
+    {
+      "path": "examples/build_divider.py",
+      "bytes": 4378,
+      "sha256": "21cf6f39074a2b220ea3f1756e81cc9206f8cdced900725ef4b0a56497ada457"
+    },
+    {
+      "path": "examples/inspect_divider.py",
+      "bytes": 2305,
+      "sha256": "da01489f7875d80f6dd6492cd132d4461d657c315cee533e489ccb2212895a82"
+    },
+    {
+      "path": "examples/run_example.py",
+      "bytes": 3361,
+      "sha256": "763ab0ced0bea771f0e72725977277ecf00393c274df9311c49df6abba003711"
+    },
+    {
+      "path": "licenses/GPL-3.0-or-later.txt",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    {
+      "path": "release-plan.json",
+      "bytes": 8263,
+      "sha256": "359e3671364ccac160787a31edf1ead3ab751ca99c085ff03e164fba2219627f"
+    },
+    {
+      "path": "skills/blender-design/SKILL.md",
+      "bytes": 6964,
+      "sha256": "015201b7f9d676faf077b26f5888af8e7a02003d319c05470771c340d6044f60"
+    },
+    {
+      "path": "skills/blender-design/agents/openai.yaml",
+      "bytes": 221,
+      "sha256": "1c922c1cdc62aee6e2376a362550a22d2adeab32171389c1990f7ae695e6dd3d"
+    },
+    {
+      "path": "skills/blender-design/references/demo-transfer.md",
+      "bytes": 2893,
+      "sha256": "f80f08694cd3cf6acfa3947cd80abc15764e8c81fad63e9ca3ba38e2ecd797e7"
+    },
+    {
+      "path": "skills/blender-design/references/design-philosophy.md",
+      "bytes": 2035,
+      "sha256": "5fa51e933a86f47b23cc0b3b5fc96bb4e98eaf409a0d6156e0eea52b1dc64f81"
+    },
+    {
+      "path": "skills/blender-design/references/library/adjustable-desk-lamp/build_lamp.py",
+      "bytes": 26681,
+      "sha256": "e87d587f087ec12e334b3a6fe237603e8d5b36e76119b520796a3d1c1a16afc5"
+    },
+    {
+      "path": "skills/blender-design/references/library/adjustable-desk-lamp/coordinator-review/acceptance.json",
+      "bytes": 2112,
+      "sha256": "58fba07e6671e2dc8194aeef6e328b9b39d3c0d5e195f633166e19de60b2b683"
+    },
+    {
+      "path": "skills/blender-design/references/library/adjustable-desk-lamp/coordinator-review/inspect_saved_scene.py",
+      "bytes": 6016,
+      "sha256": "e63fa6b2f677e5ce7f8fda95bffc76b2ad46e2ff39fb1865df2fec02db3bb924"
+    },
+    {
+      "path": "skills/blender-design/references/library/adjustable-desk-lamp/final-reopen/reopen-checks.json",
+      "bytes": 4747,
+      "sha256": "0efe029a4331add28fdbe5a10a5531d03ec192baa1fab4dd8ed56e9bee5c2272"
+    },
+    {
+      "path": "skills/blender-design/references/library/adjustable-desk-lamp/verify_saved_lamp.py",
+      "bytes": 6044,
+      "sha256": "ae64df9ea1763a9c1c966bfd0d9730e1bc1eec898d4e7b710c60d1d62cb618d0"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/API_INDEX.md",
+      "bytes": 17704,
+      "sha256": "2d5e3d4bae73e2aaed98c845a5dcc60bff4f37c479a3a49faf25d0a27c1c1d88"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/BASELINE.md",
+      "bytes": 5815,
+      "sha256": "1c659c6b76e6a5b0ecb21170f06b3377901d95bfd42e6e644027521857ee78bb"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/CLAIMS.md",
+      "bytes": 28165,
+      "sha256": "988657652f9f391536ca0f290ff9038ff612146ae4c1bfa28d1c7086533bda60"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/EXPERIENCE.md",
+      "bytes": 12570,
+      "sha256": "23a7a584a6c638331637aaf8e70f0365c9718589e937135ccdb88ae59566f752"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/FAILURE_INDEX.md",
+      "bytes": 7391,
+      "sha256": "a62f849ec61ee608e2353ceb90884c0ca074a871a0f354ca2f097b7e1507d059"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/FUTURE_TESTS.md",
+      "bytes": 7752,
+      "sha256": "2a2776aba9f15abbc98d894e4dd36e60c66caf6e4c1e9d3d4118e3b51812c72b"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/GLOSSARY.md",
+      "bytes": 13441,
+      "sha256": "3f87617611dc744bc232fbb5a947a4cc6da7ca7a2b282b00c5eaac392de54b27"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/README.md",
+      "bytes": 5715,
+      "sha256": "ca30a41408c93e85fe32bf162b457e3dd02eff2676ffc2e331c17f02f49bb9da"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/SOURCE_INDEX.md",
+      "bytes": 80612,
+      "sha256": "c7335ebf20fc91287c2d15cccb0b5eb73b645deef6d3d7e3ed2f41ee212a206b"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/SOURCE_TRACES.md",
+      "bytes": 46001,
+      "sha256": "ada1bedb8ab053dfccfa1e896da1ad70a146dd69d602c81a72ab1b14f32688d6"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/TASK_INDEX.md",
+      "bytes": 5393,
+      "sha256": "33f6584f9e089363e88f455c329edc760f2cfce75f7c35f528c2913aaa65bfc5"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/VALIDATION.md",
+      "bytes": 8746,
+      "sha256": "48e92d04a26fa88471430f1ec1ec58e7f8aa19add50b2ac5bf4ea6d03a8dd081"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/additional-reading-log.json",
+      "bytes": 9177,
+      "sha256": "6c36b0a637ff9ef8486c95c710e7bba5bfd746824679bdfd55cb47a8907a2f6e"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/baseline-recheck.json",
+      "bytes": 2606,
+      "sha256": "72317a86dac62ab40d8a9d31e7cedd4dd7911bebe5f1642973d8521490bd99b2"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/corpus-additions-01.json",
+      "bytes": 3063,
+      "sha256": "81a8172591be7b428fc6860720af3491a4c1610c73ebe5229eeb37a7fc4e9d81"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/corpus-additions-02.json",
+      "bytes": 12948,
+      "sha256": "9ed3f1a42fba41db58ef7943325c6e72bfce114cd00d1b123d2b7f69306b5422"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/corpus-additions-03.json",
+      "bytes": 4167,
+      "sha256": "87e68b97ea41fe7a372f522a8b37e8239fd870a6322b1b4db41389944f88078e"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/corpus-additions-04.json",
+      "bytes": 6732,
+      "sha256": "00936d35ad6d0d6697bd6850d463dd6a015d3da635149c81fa4749c03718a527"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/corpus-additions-05.json",
+      "bytes": 3478,
+      "sha256": "2c80425be94b98de674f69b030ad2ab72fcaf0d4f7fa7e1761fe25ad0eaccb2b"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/corpus-additions-06.json",
+      "bytes": 1873,
+      "sha256": "ceea8a5d1e6d67d67604e1087671984994ee8f4af75eed78d0d2b8c391ea092c"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/corpus-manifest.json",
+      "bytes": 55568,
+      "sha256": "227b8326a9ede2205bffd8d14c800f2488cf1159d835319aeddbe04e0ff7fc02"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/coverage.json",
+      "bytes": 243945,
+      "sha256": "85a682317312089b615b3638c8aca60ace9defe0c113ef4a460c4c39bdffeaeb"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/examples/README.md",
+      "bytes": 8113,
+      "sha256": "4bc05b748aca6e9ed706cd73c8f327c0ca4df6d5147cf82b81d829c44c7475b9"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/examples/host_job.py",
+      "bytes": 2627,
+      "sha256": "867d020cd091b82a0b7742bd0fb401b3387ca7381cfbda13c97201b6d58f40d6"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/examples/inspection.py",
+      "bytes": 4842,
+      "sha256": "7045850478fa44f3f84549d52baff2b7c753b636b6d42014b891afe77847c6f8"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/examples/instances.py",
+      "bytes": 3774,
+      "sha256": "5c792a1d22770bfe940ec8b96f5ea4ec534713c29ce232ab8aaee529635894df"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/examples/mesh_patterns.py",
+      "bytes": 6179,
+      "sha256": "7dfaf1fa18a55513af662bb7b3cb91387907021ef1158f8d74a435c882073dc0"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/examples/persistence.py",
+      "bytes": 4732,
+      "sha256": "89f448450c0db6e317bdaeb5c7a1088202f3f73dbd585bcd16d9528c14d4f61c"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/fetch-core.json",
+      "bytes": 48705,
+      "sha256": "320f19e86a70d210dd98714dc046efb319ffbefe54acf0ecbbdb72abedcd59c3"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/modules/01-execution.md",
+      "bytes": 11849,
+      "sha256": "168b969dc1e53f9786a54875092dc888be04347c282ca223d96093652252368d"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/modules/02-data.md",
+      "bytes": 10106,
+      "sha256": "33227888f06af990fa78db12dbc8693ca5e2680d2f466eddb174c0cef089c39f"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/modules/03-context.md",
+      "bytes": 11384,
+      "sha256": "64efc3a6d20b229500467ebccf9c1bd736ba1d4eb251a2ae835833602785220f"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/modules/04-mesh.md",
+      "bytes": 12790,
+      "sha256": "0e2bc40c6e866970f609e17db80d350096114aedbde65a030102dd3f53e18d37"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/modules/05-transforms.md",
+      "bytes": 12546,
+      "sha256": "640f6a54bb88b6ac4ccf7b77451f33e97c75f96252a620cc57dcfe1f6c2c0610"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/modules/06-nodes.md",
+      "bytes": 14615,
+      "sha256": "1654e61c8316b9239a22e58c7bc4bbe53ffa78dbe969a210f556f7de552f58d5"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/modules/07-render.md",
+      "bytes": 12434,
+      "sha256": "2730d25c29fe06e88c33633e30c119a444efcf6fe9f138a51c8e82d9de50055a"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/modules/08-persistence.md",
+      "bytes": 11507,
+      "sha256": "96ed855f909c150d2adeccb36c0caf9092c2c5f04ce17fa861a42f5de112dcfe"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/modules/09-revision.md",
+      "bytes": 9387,
+      "sha256": "f6709b5271d77dd013c0f7adb4feb00c3d698afebed635da161c9998f7c0fbd0"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/modules/10-recipes.md",
+      "bytes": 7358,
+      "sha256": "9c697364dc7012c42e1fd15379587c56078dc1ff25dca9e277c33e30cce24e99"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/node-reading-plan.json",
+      "bytes": 5110,
+      "sha256": "9b37b632fd43a3667f6f15ae635f7525d23992324fcff9efbaffb5e5d7e4ca8f"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/reading-batches.json",
+      "bytes": 26562,
+      "sha256": "73a12e86a72aee540ec0800f8d0cdebdbd65364339b6871926c86567808f0fae"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/reading-log.json",
+      "bytes": 34190,
+      "sha256": "8f7b7188301522558444059fdc49b9e63fbd9f2417ae7c03db00110f253f54f4"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/source-reading-log.json",
+      "bytes": 20790,
+      "sha256": "bdd0a6f90f114942ce8e3143a357f023f57f8f8d4994f4ef7355732772bb9731"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-background-review/validation.json",
+      "bytes": 7104,
+      "sha256": "886a4f145bab0e2c2d409ba2133d8388352292168ca20b7de9f3cf21b65a61ad"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-preparatory-research/PREPARATION_A_TECHNICAL_BASELINE.md",
+      "bytes": 15243,
+      "sha256": "23675622298ab5f9a747e9a54eb278899b010a3b27935403c98d414f258a60a3"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-preparatory-research/PREPARATION_B_ROUTE_SELECTION.md",
+      "bytes": 38564,
+      "sha256": "dc74b1b189932098d46f4e98cb26f362552411a01c1c395e906dd5c4ed7058a8"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-preparatory-research/README.md",
+      "bytes": 2384,
+      "sha256": "b7df64d4d448b73bb38f0ed77d66f576b1943656b2359d92ad6c14cdaeb95e80"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-preparatory-research/SOURCE_COVERAGE.md",
+      "bytes": 37890,
+      "sha256": "499b050039bcd65401acc1988a7c237e6abcdb787ac22afae497e4cb339c430d"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-preparatory-research/VALIDATION.json",
+      "bytes": 2345,
+      "sha256": "833f93d77a953de500e9af319e69a84eb5f70c28f47bcecfe4c549dea9bcafd6"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-preparatory-research/fetch-detail.json",
+      "bytes": 3818,
+      "sha256": "56d879f1c2aed1ac817728705d0ac6b52079bf9f0b194f71bd98955864395c3d"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-preparatory-research/fetch-final.json",
+      "bytes": 2293,
+      "sha256": "07267d539b06ba9ae4ac20f3cf1647c4aeca9a7547d119ecd5add84f1a53ffe9"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-preparatory-research/fetch-initial.json",
+      "bytes": 1631,
+      "sha256": "3e39d6b59827916e6f67ec78288cdafc51452b11f2de7f6061e586adbc1d6600"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-preparatory-research/fetch-mirror.json",
+      "bytes": 2538,
+      "sha256": "638bd6fc6896e3466c0cbe56d12e98ec164d1e93119f5dca9fae5717cb3a257c"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-preparatory-research/fetch-sources.json",
+      "bytes": 4439,
+      "sha256": "20fd63a58856e224aa876e1790c873c047c9ceb416a1c65c3fef843dc2d47757"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-preparatory-research/fetch-update.json",
+      "bytes": 656,
+      "sha256": "326efed712de0f7f6392e55245ca687c48e129163575c3a4c181ccc63716122c"
+    },
+    {
+      "path": "skills/blender-design/references/library/blender-preparatory-research/reading-coverage.json",
+      "bytes": 8822,
+      "sha256": "3d8c90a34fdbcbd3e778a14e31c5316c76431a1a1858daa34b1434b5ce2812e7"
+    },
+    {
+      "path": "skills/blender-design/references/library/lamp-intro-springy/runs/production-01/geometry-checks.json",
+      "bytes": 1316,
+      "sha256": "8853f693278ff107864877c1c3a8f21b70fbb3861e30a8c50c7d86086989428e"
+    },
+    {
+      "path": "skills/blender-design/references/library/lamp-intro-springy/source/assemble_film.py",
+      "bytes": 2706,
+      "sha256": "f987f81c56436ee701a0773eb08f610bbb10959b516b57e732b2603781119959"
+    },
+    {
+      "path": "skills/blender-design/references/library/lamp-intro-springy/source/build_intro.py",
+      "bytes": 19540,
+      "sha256": "9afbbcd539d49978d510e6f3f8e67f8b775006bac0fad089df6055b63de69425"
+    },
+    {
+      "path": "skills/blender-design/references/library/lamp-intro-springy/source/lamp_geometry.py",
+      "bytes": 26681,
+      "sha256": "e87d587f087ec12e334b3a6fe237603e8d5b36e76119b520796a3d1c1a16afc5"
+    },
+    {
+      "path": "skills/blender-design/references/library/lamp-intro-springy/source/motion.py",
+      "bytes": 6227,
+      "sha256": "aeab404c45adbb6376d98f9ede126424c96cef6b52a30585c3fd307992d32726"
+    },
+    {
+      "path": "skills/blender-design/references/library/lamp-intro-springy/source/render_frames.py",
+      "bytes": 3686,
+      "sha256": "1f9f7fc70c102397ab9724982e1ce09998120cc75aa4fc19ac02dc699384f95c"
+    },
+    {
+      "path": "skills/blender-design/references/library/lamp-intro-springy/source/synthesize_sound.py",
+      "bytes": 5747,
+      "sha256": "65a35466b79dfc401117ebfe6d7386947ec08a945f6c2cf5ca1cdf33c5ffa02f"
+    },
+    {
+      "path": "skills/blender-design/references/library/lamp-intro-springy/source/validate_delivery.py",
+      "bytes": 6995,
+      "sha256": "c3892fac1f7252843db9b3a0a2afe4b20c283b67ebde6956aa92d69bff0bb092"
+    },
+    {
+      "path": "skills/blender-design/references/library/lamp-intro-springy/validation.json",
+      "bytes": 4492,
+      "sha256": "977207413975e03a09459a82495b3680e7986a839bc326d82ef4557e2c6792be"
+    },
+    {
+      "path": "skills/blender-design/references/polyhaven-evidence/api-policy.md",
+      "bytes": 469,
+      "sha256": "2e98f56eb9f6cf7f39cb5dbafe3e500108d3d62222aabe412996a4a05b1e21c8"
+    },
+    {
+      "path": "skills/blender-design/references/polyhaven-evidence/asset-policy.md",
+      "bytes": 292,
+      "sha256": "bcc5366d3ae6b17687498e7b6eccef4abc304225167922560e538faaef68219b"
+    },
+    {
+      "path": "skills/blender-design/references/polyhaven-evidence/manifest.json",
+      "bytes": 806,
+      "sha256": "57b2053ce42a8b01a6c8e9d22e42ecfbe17bcf6b6bb39b77f2b3b238a8635e17"
+    },
+    {
+      "path": "skills/blender-design/references/polyhaven.md",
+      "bytes": 8690,
+      "sha256": "a75bef6637ae68d3a66765a765e074f8f8859b0fa5183a3ba8ca04bf0d90170c"
+    },
+    {
+      "path": "skills/blender-design/references/working-guide.md",
+      "bytes": 8415,
+      "sha256": "47c1273f1bdc62d34bb7f22a8432dd099733a249872a77c2d367e2396b3e3358"
+    },
+    {
+      "path": "skills/blender-design/scripts/check_bundle.py",
+      "bytes": 453,
+      "sha256": "42851ecb2cbfc142843036ae40527520bfde7205133bf44616ddcbd845f6c56b"
+    },
+    {
+      "path": "skills/blender-design/scripts/polyhaven.py",
+      "bytes": 10359,
+      "sha256": "f7d3f872c418202f6d3d260fc8d9b3978a121c3c34e05a32cfbebbbf2587b5c1"
+    },
+    {
+      "path": "skills/blender-design/scripts/polyhaven_blender.py",
+      "bytes": 3247,
+      "sha256": "29ed0a16912662ba87641cc0243098df40b09414baf0e077ed7e8ac12006ac2f"
+    },
+    {
+      "path": "tests/test_polyhaven.py",
+      "bytes": 4139,
+      "sha256": "db091a1d69dc861cab3c22b801fadb14cbd7f45429d9ff3100e2d6c16a06b096"
+    },
+    {
+      "path": "tests/test_release.py",
+      "bytes": 2414,
+      "sha256": "49ca3066bae9f34f64b37af14f76b09314f6e50d5cfa22204e71c9e828598781"
+    },
+    {
+      "path": "tools/audit_preservation.py",
+      "bytes": 2326,
+      "sha256": "ee4f1ad498b1ee66544258a813e4d159e8340a8fef269daad207b9bc01c08427"
+    },
+    {
+      "path": "tools/release.py",
+      "bytes": 7586,
+      "sha256": "32f40999b4442034b64f253652a0e44bac2577a16ac74c83332c8222b5a30ae1"
+    }
+  ]
+}

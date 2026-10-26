@@ -1,0 +1,722 @@
+[
+  {
+    "file": "src-source--creator--creator.cc",
+    "start": 481,
+    "end": 671,
+    "behavior": "Initialization passes and background exit"
+  },
+  {
+    "file": "src-source--creator--creator_args.cc",
+    "start": 2690,
+    "end": 2897,
+    "behavior": "Script dispatch, exit code and Python environment flags"
+  },
+  {
+    "file": "src-source--blender--python--intern--bpy_interface_run.cc",
+    "start": 70,
+    "end": 252,
+    "behavior": "Script namespace, exceptions, cleanup"
+  },
+  {
+    "file": "src-scripts--modules--bpy--ops.py",
+    "start": 1,
+    "end": 65,
+    "behavior": "Native operator callable dispatch"
+  },
+  {
+    "file": "src-source--blender--python--intern--bpy_operator_function.cc",
+    "start": 115,
+    "end": 435,
+    "behavior": "Argument parsing, poll, reports, view-layer updates"
+  },
+  {
+    "file": "add-src-source--blender--python--intern--bpy_interface.cc",
+    "start": 368,
+    "end": 597,
+    "behavior": "Embedded Python isolation and bundled executable"
+  },
+  {
+    "file": "src-source--blender--makesrna--intern--rna_main_api.cc",
+    "start": 115,
+    "end": 172,
+    "behavior": "Remove ID and invalidate wrapper"
+  },
+  {
+    "file": "src-source--blender--makesrna--intern--rna_main_api.cc",
+    "start": 246,
+    "end": 298,
+    "behavior": "Object and material creation"
+  },
+  {
+    "file": "src-source--blender--makesrna--intern--rna_main_api.cc",
+    "start": 324,
+    "end": 381,
+    "behavior": "Node tree and mesh creation"
+  },
+  {
+    "file": "src-source--blender--makesrna--intern--rna_ID.cc",
+    "start": 757,
+    "end": 782,
+    "behavior": "Evaluated get and copy"
+  },
+  {
+    "file": "src-source--blender--makesrna--intern--rna_object_api.cc",
+    "start": 426,
+    "end": 451,
+    "behavior": "Temporary mesh entry and cleanup"
+  },
+  {
+    "file": "src-source--blender--python--intern--bpy_rna_context.cc",
+    "start": 180,
+    "end": 520,
+    "behavior": "Context membership and restoration"
+  },
+  {
+    "file": "add-src-source--blender--blenkernel--intern--object.cc",
+    "start": 5601,
+    "end": 5622,
+    "behavior": "Repeated temporary conversion and cleanup"
+  },
+  {
+    "file": "add-src-source--blender--blenkernel--intern--mesh_convert.cc",
+    "start": 860,
+    "end": 1055,
+    "behavior": "Conversion ownership, Main transfer and anonymous attributes"
+  },
+  {
+    "file": "src-source--blender--makesrna--intern--rna_depsgraph.cc",
+    "start": 285,
+    "end": 321,
+    "behavior": "Evaluation update and reentrancy guard"
+  },
+  {
+    "file": "add-src-source--blender--makesrna--intern--rna_context.cc",
+    "start": 226,
+    "end": 243,
+    "behavior": "Evaluated graph entry"
+  },
+  {
+    "file": "src-source--blender--python--intern--bpy_operator_wrap.cc",
+    "start": 29,
+    "end": 120,
+    "behavior": "Registration and deferred properties"
+  },
+  {
+    "file": "src-source--blender--python--bmesh--bmesh_py_api.cc",
+    "start": 38,
+    "end": 161,
+    "behavior": "Owned and Edit Mode BMesh entry"
+  },
+  {
+    "file": "src-source--blender--python--bmesh--bmesh_py_types.cc",
+    "start": 1319,
+    "end": 1408,
+    "behavior": "Free and to_mesh ownership"
+  },
+  {
+    "file": "src-source--blender--python--bmesh--bmesh_py_types.cc",
+    "start": 1513,
+    "end": 1592,
+    "behavior": "from_mesh import semantics"
+  },
+  {
+    "file": "src-source--blender--makesrna--intern--rna_mesh_api.cc",
+    "start": 198,
+    "end": 258,
+    "behavior": "Mesh update clear and validation return"
+  },
+  {
+    "file": "src-source--blender--makesrna--intern--rna_modifier.cc",
+    "start": 1875,
+    "end": 1983,
+    "behavior": "Geometry node group and dynamic property RNA"
+  },
+  {
+    "file": "src-source--blender--blenkernel--intern--mesh_validate.cc",
+    "start": 852,
+    "end": 951,
+    "behavior": "Validation pipeline and repair bookkeeping"
+  },
+  {
+    "file": "src-source--blender--python--bmesh--bmesh_py_ops_call.cc",
+    "start": 760,
+    "end": 870,
+    "behavior": "Slot validation execution errors and cleanup"
+  },
+  {
+    "file": "add-src-source--blender--python--generic--py_capi_utils.cc",
+    "start": 966,
+    "end": 1038,
+    "behavior": "SystemExit handling"
+  },
+  {
+    "file": "add-src-source--blender--python--generic--py_capi_utils.cc",
+    "start": 1256,
+    "end": 1287,
+    "behavior": "Script namespace"
+  },
+  {
+    "file": "src-source--blender--modifiers--intern--MOD_nodes.cc",
+    "start": 1760,
+    "end": 1905,
+    "behavior": "Graph output checks and evaluation boundary"
+  },
+  {
+    "file": "src-source--blender--modifiers--intern--MOD_array.cc",
+    "start": 867,
+    "end": 881,
+    "behavior": "Modifier entry"
+  },
+  {
+    "file": "src-source--blender--modifiers--intern--MOD_array.cc",
+    "start": 450,
+    "end": 551,
+    "behavior": "Offset calculation and copy count limits"
+  },
+  {
+    "file": "src-source--blender--modifiers--intern--MOD_bevel.cc",
+    "start": 111,
+    "end": 261,
+    "behavior": "Selection eligibility and kernel arguments"
+  },
+  {
+    "file": "src-source--blender--modifiers--intern--MOD_boolean.cc",
+    "start": 527,
+    "end": 612,
+    "behavior": "Evaluated operands and failure paths"
+  },
+  {
+    "file": "src-source--blender--modifiers--intern--MOD_boolean.cc",
+    "start": 159,
+    "end": 218,
+    "behavior": "Error checks and handedness"
+  },
+  {
+    "file": "src-source--blender--modifiers--intern--MOD_mirror.cc",
+    "start": 67,
+    "end": 149,
+    "behavior": "Axis composition and cleanup"
+  },
+  {
+    "file": "src-source--blender--modifiers--intern--MOD_solidify.cc",
+    "start": 56,
+    "end": 85,
+    "behavior": "Algorithm dispatch"
+  },
+  {
+    "file": "src-source--blender--modifiers--intern--MOD_subsurf.cc",
+    "start": 192,
+    "end": 278,
+    "behavior": "Lazy tessellation and mode handling"
+  },
+  {
+    "file": "src-source--blender--makesrna--intern--rna_nodetree.cc",
+    "start": 1259,
+    "end": 1325,
+    "behavior": "Node creation validation"
+  },
+  {
+    "file": "src-source--blender--makesrna--intern--rna_nodetree.cc",
+    "start": 1425,
+    "end": 1532,
+    "behavior": "Link direction limits removal and invalidation"
+  },
+  {
+    "file": "add-src-source--blender--makesrna--intern--rna_node_tree_interface.cc",
+    "start": 729,
+    "end": 774,
+    "behavior": "Interface socket type and parent checks"
+  },
+  {
+    "file": "src-source--blender--makesrna--intern--rna_curve.cc",
+    "start": 604,
+    "end": 760,
+    "behavior": "Spline point creation and mutation"
+  },
+  {
+    "file": "src-source--blender--bmesh--operators--bmo_bevel.cc",
+    "start": 1,
+    "end": 96,
+    "behavior": "Bevel wrapper complete file"
+  },
+  {
+    "file": "src-source--blender--bmesh--operators--bmo_extrude.cc",
+    "start": 319,
+    "end": 465,
+    "behavior": "Region extrusion duplication deletion and output"
+  },
+  {
+    "file": "src-source--blender--editors--render--render_internal.cc",
+    "start": 236,
+    "end": 367,
+    "behavior": "Synchronous render execution and status"
+  },
+  {
+    "file": "src-source--blender--io--wavefront_obj--exporter--obj_exporter.cc",
+    "start": 280,
+    "end": 422,
+    "behavior": "File writer failure and warning-only empty output"
+  },
+  {
+    "file": "src-source--blender--windowmanager--intern--wm_files.cc",
+    "start": 3965,
+    "end": 4090,
+    "behavior": "Save options and operation result"
+  },
+  {
+    "file": "src-source--blender--windowmanager--intern--wm_files.cc",
+    "start": 2190,
+    "end": 2248,
+    "behavior": "Save implementation call and current filepath"
+  },
+  {
+    "file": "add-src-source--blender--nodes--intern--geometry_nodes_srna.cc",
+    "start": 75,
+    "end": 127,
+    "behavior": "Input identifiers and generated structures"
+  },
+  {
+    "file": "add-src-source--blender--nodes--intern--geometry_nodes_srna.cc",
+    "start": 198,
+    "end": 227,
+    "behavior": "Per-modifier properties structure"
+  },
+  {
+    "file": "add-src-source--blender--nodes--intern--geometry_nodes_execute.cc",
+    "start": 554,
+    "end": 656,
+    "behavior": "Lazy graph execution inputs outputs and cleanup"
+  },
+  {
+    "file": "add-src-source--blender--nodes--intern--geometry_nodes_execute.cc",
+    "start": 126,
+    "end": 232,
+    "behavior": "Typed scalar vector color and field input consumption"
+  },
+  {
+    "file": "add-src-source--blender--blenkernel--intern--context.cc",
+    "start": 1752,
+    "end": 1775,
+    "behavior": "Evaluated graph access and write check"
+  },
+  {
+    "file": "add-src-source--blender--windowmanager--intern--wm_init_exit.cc",
+    "start": 710,
+    "end": 741,
+    "behavior": "Process cleanup and explicit exit"
+  },
+  {
+    "file": "add-src-source--blender--nodes--intern--node_socket.cc",
+    "start": 1270,
+    "end": 1345,
+    "behavior": "Input property construction"
+  },
+  {
+    "file": "add-src-source--blender--nodes--intern--node_socket.cc",
+    "start": 1512,
+    "end": 1555,
+    "behavior": "Float value RNA and evaluation tagging"
+  },
+  {
+    "file": "add-src-source--blender--blenkernel--intern--lib_id_delete.cc",
+    "start": 259,
+    "end": 362,
+    "behavior": "Recursive deletion of never-null users"
+  },
+  {
+    "file": "add-src-source--blender--editors--io--io_obj.cc",
+    "start": 89,
+    "end": 165,
+    "behavior": "OBJ operator parameters and report-based status"
+  },
+  {
+    "file": "add-src-source--blender--io--wavefront_obj--exporter--obj_export_mesh.cc",
+    "start": 25,
+    "end": 176,
+    "behavior": "Evaluated mesh ownership materials transforms and normals"
+  },
+  {
+    "file": "add-src-source--blender--blenloader--intern--writefile.cc",
+    "start": 1889,
+    "end": 2152,
+    "behavior": "Save temporary file remapping backup rename and wrapper"
+  },
+  {
+    "file": "add-src-source--blender--editors--object--object_modifier.cc",
+    "start": 1991,
+    "end": 2078,
+    "behavior": "Modifier apply iteration and return"
+  },
+  {
+    "file": "add-src-source--blender--editors--object--object_modifier.cc",
+    "start": 1257,
+    "end": 1362,
+    "behavior": "Modifier apply mode ownership and partial success behavior"
+  },
+  {
+    "file": "add-src-source--blender--blenkernel--intern--scene.cc",
+    "start": 2749,
+    "end": 2858,
+    "behavior": "Evaluation refresh boundary and callbacks"
+  },
+  {
+    "file": "add-src-source--blender--render--intern--pipeline.cc",
+    "start": 1925,
+    "end": 2025,
+    "behavior": "Still render pipeline and write/callback timing"
+  },
+  {
+    "file": "add-src-source--blender--render--intern--pipeline.cc",
+    "start": 2178,
+    "end": 2248,
+    "behavior": "Image output dispatch"
+  },
+  {
+    "file": "add-src-source--blender--blenkernel--intern--mesh_mirror.cc",
+    "start": 118,
+    "end": 200,
+    "behavior": "Coordinate conversion and mirrored allocation"
+  },
+  {
+    "file": "add-src-source--blender--modifiers--intern--MOD_solidify_extrude.cc",
+    "start": 80,
+    "end": 140,
+    "behavior": "Nonmanifold edge guard"
+  },
+  {
+    "file": "add-src-source--blender--modifiers--intern--MOD_solidify_extrude.cc",
+    "start": 150,
+    "end": 203,
+    "behavior": "Shell settings"
+  },
+  {
+    "file": "add-src-source--blender--modifiers--intern--MOD_solidify_nonmanifold.cc",
+    "start": 138,
+    "end": 178,
+    "behavior": "Complex mode early return and thickness parameters"
+  },
+  {
+    "file": "add-src-source--blender--bmesh--tools--bmesh_bevel.cc",
+    "start": 8239,
+    "end": 8322,
+    "behavior": "Bevel parameter normalization and early return"
+  },
+  {
+    "file": "src-source--blender--makesrna--intern--rna_mesh.cc",
+    "start": 400,
+    "end": 474,
+    "behavior": "Coordinates selection attributes and loop indices"
+  },
+  {
+    "file": "src-source--blender--makesrna--intern--rna_mesh.cc",
+    "start": 1686,
+    "end": 1786,
+    "behavior": "Lazy normal access"
+  },
+  {
+    "file": "add-src-source--blender--makesrna--intern--rna_collection.cc",
+    "start": 134,
+    "end": 178,
+    "behavior": "Link unlink and dependency tags"
+  },
+  {
+    "file": "add-src-source--blender--blenkernel--intern--object.cc",
+    "start": 3763,
+    "end": 3807,
+    "behavior": "Cached dimensions and scale setting"
+  },
+  {
+    "file": "add-src-source--blender--blenkernel--intern--curve.cc",
+    "start": 885,
+    "end": 921,
+    "behavior": "Spline array reallocation"
+  },
+  {
+    "file": "src-source--blender--windowmanager--intern--wm_files.cc",
+    "start": 1323,
+    "end": 1364,
+    "behavior": "Factory preferences selection"
+  },
+  {
+    "file": "src-source--blender--windowmanager--intern--wm_files.cc",
+    "start": 1430,
+    "end": 1466,
+    "behavior": "Factory startup Main replacement and empty data"
+  },
+  {
+    "file": "add-src-source--blender--nodes--shader--nodes--node_shader_background.cc",
+    "start": 1,
+    "end": 35,
+    "behavior": "World shader declaration"
+  },
+  {
+    "file": "add-src-source--blender--nodes--shader--nodes--node_shader_output_world.cc",
+    "start": 1,
+    "end": 35,
+    "behavior": "World output declaration and shader links"
+  },
+  {
+    "file": "src-intern--cycles--blender--addon--engine.py",
+    "start": 1,
+    "end": 140,
+    "behavior": "Cycles configuration session and synchronous native render call"
+  },
+  {
+    "file": "src-intern--cycles--blender--addon--properties.py",
+    "start": 381,
+    "end": 436,
+    "behavior": "CPU and denoising defaults"
+  },
+  {
+    "file": "src-intern--cycles--blender--addon--properties.py",
+    "start": 485,
+    "end": 516,
+    "behavior": "Sample defaults and subset"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_input_position.cc",
+    "start": 9,
+    "end": 12,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_input_position.cc",
+    "start": 14,
+    "end": 17,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_instance_on_points.cc",
+    "start": 21,
+    "end": 51,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_instance_on_points.cc",
+    "start": 198,
+    "end": 285,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_join_geometry.cc",
+    "start": 11,
+    "end": 19,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_join_geometry.cc",
+    "start": 21,
+    "end": 35,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_mesh_primitive_cube.cc",
+    "start": 21,
+    "end": 45,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_mesh_primitive_cube.cc",
+    "start": 95,
+    "end": 114,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_mesh_primitive_line.cc",
+    "start": 26,
+    "end": 54,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_mesh_primitive_line.cc",
+    "start": 66,
+    "end": 74,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_mesh_primitive_line.cc",
+    "start": 132,
+    "end": 175,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_realize_instances.cc",
+    "start": 20,
+    "end": 43,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_realize_instances.cc",
+    "start": 50,
+    "end": 107,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_set_position.cc",
+    "start": 18,
+    "end": 32,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_set_position.cc",
+    "start": 128,
+    "end": 164,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_transform_geometry.cc",
+    "start": 25,
+    "end": 48,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_transform_geometry.cc",
+    "start": 76,
+    "end": 106,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--shader--nodes--node_shader_bsdf_principled.cc",
+    "start": 22,
+    "end": 326,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--shader--nodes--node_shader_bsdf_principled.cc",
+    "start": 328,
+    "end": 332,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--shader--nodes--node_shader_mapping.cc",
+    "start": 18,
+    "end": 44,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--shader--nodes--node_shader_math.cc",
+    "start": 27,
+    "end": 91,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--shader--nodes--node_shader_output_material.cc",
+    "start": 11,
+    "end": 17,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--shader--nodes--node_shader_rgb.cc",
+    "start": 19,
+    "end": 30,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--shader--nodes--node_shader_tex_coord.cc",
+    "start": 16,
+    "end": 25,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--shader--nodes--node_shader_tex_noise.cc",
+    "start": 25,
+    "end": 103,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--shader--nodes--node_shader_tex_noise.cc",
+    "start": 114,
+    "end": 124,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--shader--nodes--node_shader_value.cc",
+    "start": 23,
+    "end": 33,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "src-source--blender--nodes--shader--nodes--node_shader_vectMath.cc",
+    "start": 31,
+    "end": 94,
+    "behavior": "Node declaration or execution entry"
+  },
+  {
+    "file": "add-src-source--blender--nodes--intern--node_common.cc",
+    "start": 964,
+    "end": 1032,
+    "behavior": "Group interface socket declarations"
+  },
+  {
+    "file": "src-source--blender--modifiers--intern--MOD_bevel.cc",
+    "start": 262,
+    "end": 290,
+    "behavior": "BMesh output conversion and cleanup"
+  },
+  {
+    "file": "src-source--blender--bmesh--operators--bmo_extrude.cc",
+    "start": 465,
+    "end": 627,
+    "behavior": "Extrusion sides attributes and cleanup"
+  },
+  {
+    "file": "add-src-source--blender--blenkernel--intern--lib_id.cc",
+    "start": 851,
+    "end": 903,
+    "behavior": "Copy references remapped to originals"
+  },
+  {
+    "file": "add-src-source--blender--depsgraph--intern--depsgraph_query.cc",
+    "start": 180,
+    "end": 230,
+    "behavior": "Evaluated ID lookup delegation"
+  },
+  {
+    "file": "add-src-source--blender--windowmanager--intern--wm_event_system.cc",
+    "start": 2002,
+    "end": 2045,
+    "behavior": "Python operator dispatch and undo depth"
+  },
+  {
+    "file": "add-src-source--blender--makesrna--intern--rna_object.cc",
+    "start": 1217,
+    "end": 1232,
+    "behavior": "Dimensions getter/setter binding"
+  },
+  {
+    "file": "add-src-source--blender--makesrna--intern--rna_world.cc",
+    "start": 94,
+    "end": 107,
+    "behavior": "Deprecated use_nodes no-op"
+  },
+  {
+    "file": "add-src-source--blender--makesrna--intern--rna_material.cc",
+    "start": 272,
+    "end": 285,
+    "behavior": "Deprecated use_nodes no-op"
+  },
+  {
+    "file": "add-src-source--blender--makesrna--intern--rna_light.cc",
+    "start": 170,
+    "end": 205,
+    "behavior": "Light color and temperature properties"
+  },
+  {
+    "file": "src-source--blender--makesrna--intern--rna_main_api.cc",
+    "start": 558,
+    "end": 570,
+    "behavior": "World default node creation"
+  },
+  {
+    "file": "src-source--blender--bmesh--operators--bmo_extrude.cc",
+    "start": 627,
+    "end": 632,
+    "behavior": "Extrusion operation cleanup"
+  },
+  {
+    "file": "src-source--blender--nodes--geometry--nodes--node_geo_join_geometry.cc",
+    "start": 11,
+    "end": 35,
+    "behavior": "Declaration and full join dispatch through output assignment"
+  }
+]

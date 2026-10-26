@@ -1,0 +1,67 @@
+[
+  {
+    "id": "add-src-source--blender--nodes--intern--node_socket.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/nodes/intern/node_socket.cc",
+    "kind": "implementation",
+    "revision": "d13f752e3b9c4f8c261cda552b1021f8bcc0382c",
+    "reason": "Resolve input values, evaluation refresh, render write result, mirror and group sockets"
+  },
+  {
+    "id": "add-src-source--blender--blenkernel--intern--scene.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/blenkernel/intern/scene.cc",
+    "kind": "implementation",
+    "revision": "d13f752e3b9c4f8c261cda552b1021f8bcc0382c",
+    "reason": "Resolve input values, evaluation refresh, render write result, mirror and group sockets"
+  },
+  {
+    "id": "add-src-source--blender--render--intern--pipeline.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/render/intern/pipeline.cc",
+    "kind": "implementation",
+    "revision": "d13f752e3b9c4f8c261cda552b1021f8bcc0382c",
+    "reason": "Resolve input values, evaluation refresh, render write result, mirror and group sockets"
+  },
+  {
+    "id": "add-src-source--blender--blenkernel--intern--mesh_mirror.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/blenkernel/intern/mesh_mirror.cc",
+    "kind": "implementation",
+    "revision": "d13f752e3b9c4f8c261cda552b1021f8bcc0382c",
+    "reason": "Resolve input values, evaluation refresh, render write result, mirror and group sockets"
+  },
+  {
+    "id": "add-src-source--blender--nodes--intern--node_common.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/nodes/intern/node_common.cc",
+    "kind": "implementation",
+    "revision": "d13f752e3b9c4f8c261cda552b1021f8bcc0382c",
+    "reason": "Resolve input values, evaluation refresh, render write result, mirror and group sockets"
+  },
+  {
+    "id": "experience-stackexchange.json",
+    "url": "https://api.stackexchange.com/2.3/questions/6101;323805;99755?site=blender&filter=withbody&pagesize=100",
+    "kind": "report",
+    "reason": "Read full historical context, stale-reference and background execution questions"
+  },
+  {
+    "id": "experience-stackexchange-answers.json",
+    "url": "https://api.stackexchange.com/2.3/questions/6101;323805;99755/answers?site=blender&filter=withbody&pagesize=100",
+    "kind": "report",
+    "reason": "Read full historical context, stale-reference and background execution questions"
+  },
+  {
+    "id": "experience-stackexchange-comments.json",
+    "url": "https://api.stackexchange.com/2.3/questions/6101;323805;99755/comments?site=blender&filter=withbody&pagesize=100",
+    "kind": "report",
+    "reason": "Read full historical context, stale-reference and background execution questions"
+  },
+  {
+    "id": "report-144340.json",
+    "url": "https://projects.blender.org/api/v1/repos/blender/blender/issues/144340",
+    "kind": "report",
+    "reason": "Investigate normals, deletion and modifier interaction"
+  },
+  {
+    "id": "report-144340-comments.json",
+    "url": "https://projects.blender.org/api/v1/repos/blender/blender/issues/144340/comments?limit=100&page=1",
+    "kind": "report",
+    "reason": "Investigate normals, deletion and modifier interaction"
+  }
+]

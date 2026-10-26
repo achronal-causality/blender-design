@@ -1,0 +1,24 @@
+[
+  {
+    "id": "poly-license",
+    "path": "asset-policy.md",
+    "sha256": "bcc5366d3ae6b17687498e7b6eccef4abc304225167922560e538faaef68219b",
+    "bytes": 292,
+    "requested_url": "https://polyhaven.com/license",
+    "retrieved_utc": null,
+    "reviewed_date": "2026-10-26",
+    "evidence_kind": "original_source_linked_summary",
+    "method": "manual primary-source review; not a raw capture"
+  },
+  {
+    "id": "poly-tos-pinned",
+    "path": "api-policy.md",
+    "sha256": "2e98f56eb9f6cf7f39cb5dbafe3e500108d3d62222aabe412996a4a05b1e21c8",
+    "bytes": 469,
+    "requested_url": "https://polyhaven.com/our-api",
+    "retrieved_utc": null,
+    "reviewed_date": "2026-10-26",
+    "evidence_kind": "original_source_linked_summary",
+    "method": "manual primary-source review; not a raw capture"
+  }
+]

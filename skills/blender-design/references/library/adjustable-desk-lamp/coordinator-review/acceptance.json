@@ -1,0 +1,68 @@
+{
+  "checked_utc": "2026-09-15T19:59:39.999511+00:00",
+  "status": "PASS",
+  "accepted_scene": "../final-v2/axis-02.blend",
+  "blend_sha256": "1c3f4cece6ae70b6fa45a328b58eed435314863b6bbf5aae0b59cf930484c1cc",
+  "source_sha256": "3874016d6ccfd950d88d64c0ca29eb6469ea10d35a072b61371c7563043b2ae4",
+  "receipt_file_hashes_verified": 11,
+  "worker_saved_file_poses_verified": 13,
+  "coordinator_additional_poses": [
+    "independent_asymmetric",
+    "independent_counterturned"
+  ],
+  "coordinator_max_joint_error_m": 3.414284955677271e-08,
+  "native_controls_without_auto_execution": true,
+  "images": {
+    "hero.png": {
+      "size": [
+        1600,
+        1600
+      ],
+      "sha256": "e0879404be073d96075bd202ae688df273da49fab0388098c3c5192cb4b4205b"
+    },
+    "joint-detail.png": {
+      "size": [
+        1000,
+        1000
+      ],
+      "sha256": "c74f5fc17023d1265bbb94c316ac38648abd853d546e966e9db712621da3a144"
+    },
+    "pose-compact.png": {
+      "size": [
+        800,
+        800
+      ],
+      "sha256": "a98dcb6b24e1e329fc9f0340e6525b14fed0fdd623876f3692365f9b7c1fcdbb"
+    },
+    "pose-reach.png": {
+      "size": [
+        800,
+        800
+      ],
+      "sha256": "a3f3cbe42d0724f38d97e9d1394d14eaa1d63dd0747973697ef4e28b0ab53953"
+    },
+    "pose-turned.png": {
+      "size": [
+        800,
+        800
+      ],
+      "sha256": "a69353aeb33faa5bebaf305081141e30e954482558a9ebc790ee5c1ed2dea22e"
+    },
+    "pose-upright.png": {
+      "size": [
+        800,
+        800
+      ],
+      "sha256": "9523b1cab51d6bed6222714d276d2b5040c0688ce53c5cd54b474d50542267a7"
+    },
+    "pose-working.png": {
+      "size": [
+        800,
+        800
+      ],
+      "sha256": "1053e7d07908d042cfed49e37f89feeaeea53d54773016977ce8f28bd9743be2"
+    }
+  },
+  "visual_inspection": "Coordinator inspected final-v2 hero, compact pose and hinge detail. Lamp remains coherently assembled; full lamp visible in hero and compact view. Detail intentionally crops the product.",
+  "limits": "Finite poses and selected surface tests only; no all-range collision, load/friction, thermal or electrical certification."
+}

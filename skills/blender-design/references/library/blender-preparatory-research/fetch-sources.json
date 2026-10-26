@@ -1,0 +1,98 @@
+[
+  {
+    "id": "info_overview.rst",
+    "url": "https://projects.blender.org/blender/blender/raw/commit/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/doc/python_api/rst/info_overview.rst"
+  },
+  {
+    "id": "info_tips_and_tricks.rst",
+    "url": "https://projects.blender.org/blender/blender/raw/commit/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/doc/python_api/rst/info_tips_and_tricks.rst"
+  },
+  {
+    "id": "info_advanced_blender_as_bpy.rst",
+    "url": "https://projects.blender.org/blender/blender/raw/commit/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/doc/python_api/rst/info_advanced_blender_as_bpy.rst"
+  },
+  {
+    "id": "info_gotchas_operators.rst",
+    "url": "https://projects.blender.org/blender/blender/raw/commit/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/doc/python_api/rst/info_gotchas_operators.rst"
+  },
+  {
+    "id": "info_gotchas_threading.rst",
+    "url": "https://projects.blender.org/blender/blender/raw/commit/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/doc/python_api/rst/info_gotchas_threading.rst"
+  },
+  {
+    "id": "info_gotchas_internal_data_and_python_objects.rst",
+    "url": "https://projects.blender.org/blender/blender/raw/commit/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/doc/python_api/rst/info_gotchas_internal_data_and_python_objects.rst"
+  },
+  {
+    "id": "bpy_operator.cc",
+    "url": "https://projects.blender.org/blender/blender/raw/commit/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/python/intern/bpy_operator.cc"
+  },
+  {
+    "id": "bpy_interface_run.cc",
+    "url": "https://projects.blender.org/blender/blender/raw/commit/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/python/intern/bpy_interface_run.cc"
+  },
+  {
+    "id": "bpy_app_timers.cc",
+    "url": "https://projects.blender.org/blender/blender/raw/commit/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/python/intern/bpy_app_timers.cc"
+  },
+  {
+    "id": "creator_args.cc",
+    "url": "https://projects.blender.org/blender/blender/raw/commit/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/creator/creator_args.cc"
+  },
+  {
+    "id": "BKE_blender_version.h",
+    "url": "https://projects.blender.org/blender/blender/raw/commit/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/blenkernel/BKE_blender_version.h"
+  },
+  {
+    "id": "background_job.py",
+    "url": "https://projects.blender.org/blender/blender/raw/commit/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/scripts/templates_py/background_job.py"
+  },
+  {
+    "id": "bmesh_simple.py",
+    "url": "https://projects.blender.org/blender/blender/raw/commit/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/scripts/templates_py/bmesh_simple.py"
+  },
+  {
+    "id": "mcp-README.md",
+    "url": "https://raw.githubusercontent.com/ahujasid/blender-mcp/7684c6b3ad2aa0710bbdb1cb06b497c90899ae00/README.md"
+  },
+  {
+    "id": "vscode-README.md",
+    "url": "https://raw.githubusercontent.com/JacquesLucke/blender_vscode/d30e14bc6f13e61247ccc2bd89f1a0116b5cf8db/README.md"
+  },
+  {
+    "id": "blenderproc-README.md",
+    "url": "https://raw.githubusercontent.com/DLR-RM/BlenderProc/76bd8b82ee19489843578ff045298642197bf883/README.md"
+  },
+  {
+    "id": "blendersynth-README.md",
+    "url": "https://raw.githubusercontent.com/ollieboyne/BlenderSynth/02a8c7b92ff3332639db6b8a6e3df742d9e76b00/README.md"
+  },
+  {
+    "id": "fake-bpy-README.md",
+    "url": "https://raw.githubusercontent.com/nutti/fake-bpy-module/eea267aaca080e05114e2b8158ae9831db274c52/README.md"
+  },
+  {
+    "id": "mcp-tree.json",
+    "url": "https://api.github.com/repos/ahujasid/blender-mcp/git/trees/7684c6b3ad2aa0710bbdb1cb06b497c90899ae00?recursive=1"
+  },
+  {
+    "id": "vscode-tree.json",
+    "url": "https://api.github.com/repos/JacquesLucke/blender_vscode/git/trees/d30e14bc6f13e61247ccc2bd89f1a0116b5cf8db?recursive=1"
+  },
+  {
+    "id": "blenderproc-tree.json",
+    "url": "https://api.github.com/repos/DLR-RM/BlenderProc/git/trees/76bd8b82ee19489843578ff045298642197bf883?recursive=1"
+  },
+  {
+    "id": "blendersynth-tree.json",
+    "url": "https://api.github.com/repos/ollieboyne/BlenderSynth/git/trees/02a8c7b92ff3332639db6b8a6e3df742d9e76b00?recursive=1"
+  },
+  {
+    "id": "fake-bpy-tree.json",
+    "url": "https://api.github.com/repos/nutti/fake-bpy-module/git/trees/eea267aaca080e05114e2b8158ae9831db274c52?recursive=1"
+  },
+  {
+    "id": "blender-new-commit.json",
+    "url": "https://projects.blender.org/api/v1/repos/blender/blender/git/commits/d13f752e3b9c4f8c261cda552b1021f8bcc0382c"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "bpy-ops.py",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/scripts/modules/bpy/ops.py"
+  },
+  {
+    "id": "proc-command-line.py",
+    "url": "https://raw.githubusercontent.com/DLR-RM/BlenderProc/76bd8b82ee19489843578ff045298642197bf883/blenderproc/command_line.py"
+  },
+  {
+    "id": "synth-run.py",
+    "url": "https://raw.githubusercontent.com/ollieboyne/BlenderSynth/02a8c7b92ff3332639db6b8a6e3df742d9e76b00/blendersynth/run/run_this_script.py"
+  },
+  {
+    "id": "synth-example.py",
+    "url": "https://raw.githubusercontent.com/ollieboyne/BlenderSynth/02a8c7b92ff3332639db6b8a6e3df742d9e76b00/examples/quickstart.py"
+  },
+  {
+    "id": "vscode-communication.py",
+    "url": "https://raw.githubusercontent.com/JacquesLucke/blender_vscode/d30e14bc6f13e61247ccc2bd89f1a0116b5cf8db/pythonFiles/include/blender_vscode/communication.py"
+  },
+  {
+    "id": "vscode-installation.py",
+    "url": "https://raw.githubusercontent.com/JacquesLucke/blender_vscode/d30e14bc6f13e61247ccc2bd89f1a0116b5cf8db/pythonFiles/include/blender_vscode/installation.py"
+  },
+  {
+    "id": "mcp-socket-test.py",
+    "url": "https://raw.githubusercontent.com/ahujasid/blender-mcp/7684c6b3ad2aa0710bbdb1cb06b497c90899ae00/tests/test_socket_unicode.py"
+  },
+  {
+    "id": "mcp-pr272.json",
+    "url": "https://api.github.com/repos/ahujasid/blender-mcp/pulls/272"
+  },
+  {
+    "id": "mcp-pr292.json",
+    "url": "https://api.github.com/repos/ahujasid/blender-mcp/pulls/292"
+  },
+  {
+    "id": "vscode-issue260.json",
+    "url": "https://api.github.com/repos/JacquesLucke/blender_vscode/issues/260"
+  },
+  {
+    "id": "vscode-comments260.json",
+    "url": "https://api.github.com/repos/JacquesLucke/blender_vscode/issues/260/comments?per_page=100"
+  },
+  {
+    "id": "blender-lts.html",
+    "url": "https://www.blender.org/download/lts/5-2/"
+  },
+  {
+    "id": "bpy-context.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.context.html"
+  },
+  {
+    "id": "bpy-data.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.data.html"
+  },
+  {
+    "id": "bmesh.html",
+    "url": "https://docs.blender.org/api/5.2/bmesh.html"
+  },
+  {
+    "id": "bpy-node-tree.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.NodeTree.html"
+  }
+]

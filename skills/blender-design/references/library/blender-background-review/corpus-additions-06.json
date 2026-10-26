@@ -1,0 +1,40 @@
+[
+  {
+    "id": "add-api-GeometryNodeTree.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.GeometryNodeTree.html",
+    "kind": "api",
+    "reason": "Required concrete node-tree type or constant World shader dependency for bounded examples"
+  },
+  {
+    "id": "add-api-ShaderNodeTree.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.ShaderNodeTree.html",
+    "kind": "api",
+    "reason": "Required concrete node-tree type or constant World shader dependency for bounded examples"
+  },
+  {
+    "id": "add-api-ShaderNodeBackground.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.ShaderNodeBackground.html",
+    "kind": "api",
+    "reason": "Required concrete node-tree type or constant World shader dependency for bounded examples"
+  },
+  {
+    "id": "add-api-ShaderNodeOutputWorld.html",
+    "url": "https://docs.blender.org/api/5.2/bpy.types.ShaderNodeOutputWorld.html",
+    "kind": "api",
+    "reason": "Required concrete node-tree type or constant World shader dependency for bounded examples"
+  },
+  {
+    "id": "add-src-source--blender--nodes--shader--nodes--node_shader_background.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/nodes/shader/nodes/node_shader_background.cc",
+    "kind": "implementation",
+    "revision": "d13f752e3b9c4f8c261cda552b1021f8bcc0382c",
+    "reason": "Verify minimal World shader socket declarations"
+  },
+  {
+    "id": "add-src-source--blender--nodes--shader--nodes--node_shader_output_world.cc",
+    "url": "https://raw.githubusercontent.com/blender/blender/d13f752e3b9c4f8c261cda552b1021f8bcc0382c/source/blender/nodes/shader/nodes/node_shader_output_world.cc",
+    "kind": "implementation",
+    "revision": "d13f752e3b9c4f8c261cda552b1021f8bcc0382c",
+    "reason": "Verify minimal World shader socket declarations"
+  }
+]

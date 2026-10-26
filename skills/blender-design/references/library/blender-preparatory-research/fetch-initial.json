@@ -1,0 +1,58 @@
+[
+  {
+    "id": "blender-commit.json",
+    "url": "https://projects.blender.org/api/v1/repos/blender/blender/git/commits/fbe6228777e7"
+  },
+  {
+    "id": "blender-tag.json",
+    "url": "https://projects.blender.org/api/v1/repos/blender/blender/tags/v5.2.0"
+  },
+  {
+    "id": "release-index.html",
+    "url": "https://download.blender.org/release/Blender5.2/"
+  },
+  {
+    "id": "release-notes.html",
+    "url": "https://developer.blender.org/docs/release_notes/5.2/"
+  },
+  {
+    "id": "release-python.html",
+    "url": "https://developer.blender.org/docs/release_notes/5.2/python_api/"
+  },
+  {
+    "id": "api-index.html",
+    "url": "https://docs.blender.org/api/5.2/index.html"
+  },
+  {
+    "id": "manual-scripting.html",
+    "url": "https://docs.blender.org/manual/en/5.2/advanced/scripting/index.html"
+  },
+  {
+    "id": "manual-commandline.html",
+    "url": "https://docs.blender.org/manual/en/5.2/advanced/command_line/arguments.html"
+  },
+  {
+    "id": "bpy-pypi.json",
+    "url": "https://pypi.org/pypi/bpy/5.2.0/json"
+  },
+  {
+    "id": "mcp-head.json",
+    "url": "https://api.github.com/repos/ahujasid/blender-mcp/commits/main"
+  },
+  {
+    "id": "vscode-head.json",
+    "url": "https://api.github.com/repos/JacquesLucke/blender_vscode/commits/master"
+  },
+  {
+    "id": "blenderproc-head.json",
+    "url": "https://api.github.com/repos/DLR-RM/BlenderProc/commits/main"
+  },
+  {
+    "id": "blendersynth-head.json",
+    "url": "https://api.github.com/repos/ollieboyne/BlenderSynth/commits/main"
+  },
+  {
+    "id": "fake-bpy-head.json",
+    "url": "https://api.github.com/repos/nutti/fake-bpy-module/commits/main"
+  }
+]

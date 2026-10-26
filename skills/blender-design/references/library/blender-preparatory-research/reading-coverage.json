@@ -1,0 +1,274 @@
+{
+  "info_overview.rst": [
+    "Full textual guide",
+    "Entire captured RST, including examples; not executed"
+  ],
+  "info_tips_and_tricks.rst": [
+    "Full textual guide",
+    "Entire captured RST, including examples; not executed"
+  ],
+  "info_advanced_blender_as_bpy.rst": [
+    "Full textual guide",
+    "Entire captured RST; runtime not imported"
+  ],
+  "info_gotchas_operators.rst": [
+    "Full textual guide",
+    "Entire captured RST"
+  ],
+  "info_gotchas_threading.rst": [
+    "Full textual guide",
+    "Entire captured RST, including supported and unsupported examples"
+  ],
+  "info_gotchas_internal_data_and_python_objects.rst": [
+    "Full textual guide",
+    "Entire captured RST; reference lifetime and evaluation sections"
+  ],
+  "bmesh.html": [
+    "Full main article",
+    "Extracted article including module functions and example; linked submodules not fully read"
+  ],
+  "bpy-context.html": [
+    "Full main article",
+    "Small context entry; linked Context type not fully read"
+  ],
+  "bpy-data.html": [
+    "Full main article",
+    "Small data entry and examples"
+  ],
+  "bpy-node-tree.html": [
+    "Reference lookup",
+    "Type, interface, nodes, links, poll and update sections; inherited-reference listing not audited"
+  ],
+  "api-index.html": [
+    "Index inspection",
+    "Documentation/module map; entire API reference not read"
+  ],
+  "manual-scripting.html": [
+    "Index inspection",
+    "Article and footer/source links"
+  ],
+  "manual-commandline.html": [
+    "Reference lookup",
+    "Script/background/error flags and argument ordering; installed help corroboration"
+  ],
+  "release-notes.html": [
+    "Full main article",
+    "Release overview, compatibility notes and links; linked chapters not read in full"
+  ],
+  "release-python.html": [
+    "Full main article",
+    "5.2 Python API changes, including examples; linked commits not audited individually"
+  ],
+  "blender-lts.html": [
+    "Redirect and page inspection",
+    "Redirected to general 5.2 release presentation; not a corrective-release changelog"
+  ],
+  "download-page.html": [
+    "Reference lookup",
+    "Stable version and Apple Silicon download link"
+  ],
+  "release-root.html": [
+    "Directory inspection",
+    "Release folders only"
+  ],
+  "release-index.html": [
+    "Directory inspection",
+    "5.2 release artifacts, publication dates, filenames and sizes"
+  ],
+  "release-corrective.html": [
+    "Inaccessible",
+    "Candidate URL returned HTTP 404; no content read"
+  ],
+  "BKE_blender_version.h": [
+    "Full source file",
+    "Version macros and declarations"
+  ],
+  "background_job.py": [
+    "Full source file",
+    "Shipped example; compared against installed copy; not executed"
+  ],
+  "bmesh_simple.py": [
+    "Full source file",
+    "Shipped example; compared against installed copy; not executed"
+  ],
+  "bpy-ops.py": [
+    "Full source file",
+    "Python operator dispatch; compared against installed copy"
+  ],
+  "bpy_operator.cc": [
+    "Full source file",
+    "Private operator module entry; callable implementation delegated to other files"
+  ],
+  "bpy_app_timers.cc": [
+    "Full source file",
+    "Timer callback conversion, registration, unregistration and Python interface"
+  ],
+  "bpy_interface_run.cc": [
+    "Targeted source inspection",
+    "Lines 125–254: shared text/file executor; supporting symbol searches"
+  ],
+  "creator_args.cc": [
+    "Targeted source inspection",
+    "Lines 2721–2753 and 2836–2865: Python file/error-code handlers; option registration searches"
+  ],
+  "mcp-README.md": [
+    "Targeted documentation inspection",
+    "Architecture/setup/capabilities/examples/troubleshooting/security/telemetry; not all linked docs or videos"
+  ],
+  "mcp-server.py": [
+    "Targeted source inspection",
+    "Lines 85–242, 537–672; tool/lifecycle searches; not all asset/provider handlers"
+  ],
+  "mcp-addon.py": [
+    "Targeted source inspection",
+    "565–585, 640–695, 739–875, 1490–1525, 4190–4265, 4460–4500; supporting symbol searches"
+  ],
+  "mcp-bundled-addon.py": [
+    "Byte comparison",
+    "Identical to root addon; reading coverage inherited only for the root ranges actually read"
+  ],
+  "mcp-safe-mode.py": [
+    "Targeted source inspection",
+    "Policy header and execute-code validation call site; scattered implementation excerpts; not a security audit"
+  ],
+  "mcp-telemetry.py": [
+    "Targeted source inspection",
+    "65–120, 190–225 and consent/upload/record symbol searches"
+  ],
+  "mcp-pyproject.toml": [
+    "Full package metadata",
+    "Version, dependencies, Python requirement and packaging"
+  ],
+  "mcp-socket-test.py": [
+    "Full test source",
+    "Test body and fake-socket fixture read; no tests executed"
+  ],
+  "vscode-README.md": [
+    "Full textual README",
+    "Documentation text read; linked images/pages not fully examined"
+  ],
+  "vscode-CHANGELOG.md": [
+    "Reference lookup",
+    "Search-led release history including 4.x fixes; not read exhaustively"
+  ],
+  "vscode-package.json": [
+    "Metadata lookup",
+    "Version and command/settings declarations"
+  ],
+  "vscode-launch.py": [
+    "Full source file",
+    "Launch environment and setup call"
+  ],
+  "vscode-communication.py": [
+    "Targeted source inspection",
+    "Lines 1–135: HTTP/debugger setup and request entry points"
+  ],
+  "vscode-installation.py": [
+    "Full source file",
+    "Package import checks and user-module installation path"
+  ],
+  "blenderproc-README.md": [
+    "Full textual README",
+    "Includes quickstart and debug workflow; media not reviewed"
+  ],
+  "proc-cli.py": [
+    "Full source file",
+    "Thin delegation to blenderproc.command_line"
+  ],
+  "proc-command-line.py": [
+    "Targeted source inspection",
+    "1–80, 130–206 plus option searches; external-bpy and child-process branches"
+  ],
+  "proc-install.py": [
+    "Targeted source inspection",
+    "Version/platform/custom-path selection, especially 80–108; supporting searches"
+  ],
+  "proc-example.py": [
+    "Full example source",
+    "Basic import-and-render dataset pipeline; not executed"
+  ],
+  "proc-setup.py": [
+    "Captured; not read",
+    "Retained package source; not used for a version assertion"
+  ],
+  "blendersynth-README.md": [
+    "Full textual README",
+    "Support/status and purpose; benchmarks/media not reviewed"
+  ],
+  "synth-pyproject.toml": [
+    "Full package metadata",
+    "Version, dependencies and Python requirement"
+  ],
+  "synth-setup.py": [
+    "Full package metadata",
+    "Version and dependency list"
+  ],
+  "synth-run.py": [
+    "Full source file",
+    "Host detection, Blender subprocess, debug setup and argument handling"
+  ],
+  "synth-example.py": [
+    "Full example source",
+    "Procedural primitive/material/light/compositor example; not executed"
+  ],
+  "fake-bpy-README.md": [
+    "Full textual README",
+    "Purpose, release-specific stubs, support list; linked setup pages not read"
+  ],
+  "mcp-issue-251.json": [
+    "Full issue body",
+    "Metadata and full body read; linked external material not automatically included"
+  ],
+  "mcp-comments-251.json": [
+    "Full returned comments",
+    "Returned text read, or no comments returned; attachments not visually reviewed"
+  ],
+  "mcp-issue-272.json": [
+    "Full issue body",
+    "Metadata and full body read; linked external material not automatically included"
+  ],
+  "mcp-comments-272.json": [
+    "Full returned comments",
+    "Returned text read, or no comments returned; attachments not visually reviewed"
+  ],
+  "mcp-issue-279.json": [
+    "Full issue body",
+    "Metadata and full body read; linked external material not automatically included"
+  ],
+  "mcp-comments-279.json": [
+    "Targeted comments",
+    "Follow-up version/timing claims inspected; not every linked thread"
+  ],
+  "mcp-issue-314.json": [
+    "Full issue body",
+    "Metadata and full body read; linked external material not automatically included"
+  ],
+  "mcp-comments-314.json": [
+    "Full returned comments",
+    "Returned text read, or no comments returned; attachments not visually reviewed"
+  ],
+  "mcp-issue-207.json": [
+    "Full issue body",
+    "Metadata and full body read; linked external material not automatically included"
+  ],
+  "mcp-comments-207.json": [
+    "Full returned comments",
+    "Returned text read, or no comments returned; attachments not visually reviewed"
+  ],
+  "mcp-pr272.json": [
+    "PR metadata lookup",
+    "Merged flag, merge time and commit verified; current source independently checked"
+  ],
+  "mcp-pr292.json": [
+    "PR metadata lookup",
+    "Closed-unmerged state verified"
+  ],
+  "vscode-issue260.json": [
+    "Full issue body",
+    "Linux version/workflow and log report; image not viewed"
+  ],
+  "vscode-comments260.json": [
+    "Full returned comments",
+    "Maintainer and author exchanges; no confirmed resolution"
+  ]
+}
