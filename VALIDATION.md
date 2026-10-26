@@ -8,7 +8,7 @@ The final 1.2.1 package is checked by exact members/hashes, local links, extract
 
 ## 1.2.0 runtime and publication-cleanup baseline
 
-Validated locally on 2026-10-26. These prior runtime checks remain applicable only to the unchanged code and recorded environment; this is a local release candidate, not a published listing.
+Validated locally on 2026-10-26. These prior runtime checks remain applicable only to the unchanged code and recorded environment; distribution is an experimental GitHub release, not an OpenAI plugin-directory listing.
 
 ## Preservation and packaging
 
@@ -36,3 +36,7 @@ The first build under the restricted execution sandbox terminated with a native 
 No Windows/Linux or alternate-Blender compatibility claim, broad catalog import validation, continuous collision analysis, physical mechanism certification, animation test, or entire-research-example execution follows. Historical research examples marked unexecuted retain that status. Fresh source access was not OS-blocked during the divider reopen. No live Poly Haven request was needed for this cleanup; helper network behavior remains represented by bounded unit tests and separately labeled historical integration evidence.
 
 Licenses for original contributions were explicitly authorized by the user. Whole captured third-party content remains outside the public artifact pending per-source clearance. The public report does not grant those third-party rights.
+
+## GitHub publication artifact
+
+The README now contains the public repository and prerelease download URLs. The ZIP is rebuilt from the curated source with refreshed inventories. Every prior Git commit was checked against its explicit public file list before the first push; private evidence, build directories, and caches are absent from all published trees. Documentation changes do not alter the example or helper code. Public ZIP size and SHA-256 are supplied in the GitHub release and its checksum attachment.

@@ -33,13 +33,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 4579,
-      "sha256": "8cd9d6a7516e944cdea7017e343be84f4b6798accadc38b10c640ef974b2ab31"
+      "bytes": 4907,
+      "sha256": "b16de2aca38f3ff977c7ad0c6587a308a3ce00a0701e9a3074446411f95282b4"
     },
     {
       "path": "VALIDATION.md",
-      "bytes": 5485,
-      "sha256": "b60c761e8d13c290f82ec457b26126fe187e4b49731877f7a454e7404524ab66"
+      "bytes": 6029,
+      "sha256": "d00c23f322f32a6cf5a1dce204b3dc8c0ab29d90c52d6e8d4c76ed9616a41d6b"
     },
     {
       "path": "docs/adr/0001-separate-public-reference-from-private-captures.md",
@@ -69,7 +69,7 @@
     {
       "path": "docs/preservation.json",
       "bytes": 689153,
-      "sha256": "1e348a54ce1b2c28bb61649e6620246a531728249c1b34685e752a5ce79cd415"
+      "sha256": "3bac9a9f7d7b67c74bf7d086a4072e6617cc00199e3112e1db3b508aed3d9a88"
     },
     {
       "path": "docs/releasing.md",

@@ -2,20 +2,20 @@
 
 A Codex plugin for designing and revising editable Blender scenes through Python. Define useful parameters and construction rules, derive geometry, inspect renders, and check the intended relationships.
 
-Version 1.2.1 is a local release candidate. No public repository or directory listing has been published.
+Version 1.2.1 is an initial experimental release. [Download the release ZIP](https://github.com/achronal-causality/blender-design/releases/tag/v1.2.1) or browse the [source repository](https://github.com/achronal-causality/blender-design).
 
 ## Requirements
 
 - Codex with local plugin support, file access, command execution, and image inspection.
 - An installed Blender executable. The release example is tested on Blender 5.2.2 LTS, macOS ARM64. Other versions/platforms require compatibility checks.
 - Host Python 3.10+ for helpers and the example runner. No pip dependencies are required.
-- The core procedural workflow and example need no asset provider, account, or network access. Optional external assets have provider-specific access and terms.
+- The bundled example and technical reference need no asset provider or provider account. Asset acquisition has provider-specific network, access, and terms requirements.
 
 The plugin supplies instructions, references, and helpers. Blender runs the modeling code. Installing it does not provide Blender or a remote rendering service.
 
 ## Install locally
 
-Download and extract the release ZIP, or clone the eventual source repository. Keep the whole `blender-design` folder together, including hidden metadata. From its root:
+Download and extract the [release ZIP](https://github.com/achronal-causality/blender-design/releases/download/v1.2.1/blender-design-1.2.1.zip), or clone [https://github.com/achronal-causality/blender-design](https://github.com/achronal-causality/blender-design). Keep the whole `blender-design` folder together, including hidden metadata. From its root:
 
 ```sh
 python3 -B tools/release.py check
